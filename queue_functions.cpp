@@ -37,16 +37,16 @@ int queue_push(struct my_queue * queue, elem push_value)
     assert(queue);
     assert(isfinite(push_value));
 
-    if (queue->tail == queue->head + (unsigned char) 1)
+    if (queue->head == ((queue->tail + 1) & (BUFF_SIZE - 1)))
     {
         fprintf(logfile, "ERROR: queue overflow. Element %lg was not added to queue.\n\n\n", push_value);
         return 1;
     }
 
-    queue->data[queue->head] = push_value;
-    queue->head++;
+    queue->data[queue->tail] = push_value;
+    queue->tail = (queue->tail + 1) & (BUFF_SIZE - 1);
 
-    fprintf(logfile, "%lg was pushed to queue \"%s\"\nhead - %d\ntail - %d\n\n\n", push_value, queue->queue_info.name, queue->head, queue->tail);
+    fprintf(logfile, "%lg was pushed to queue \"%s\"\ntail - %d\nhead - %d\n\n\n", push_value, queue->queue_info.name, queue->tail, queue->head);
 
     return 0;
 }
@@ -62,11 +62,11 @@ int queue_pop(struct my_queue * queue, elem * out_value)
         return 1;
     }
 
-    *out_value = queue->data[queue->tail];
-    queue->data[queue->tail] = POISON;
-    queue->tail++;
+    *out_value = queue->data[queue->head];
+    queue->data[queue->head] = POISON;
+    queue->head = (queue->head + 1) & (BUFF_SIZE - 1);
 
-    fprintf(logfile, "%lg was poped from queue \"%s\"\nhead - %d\ntail - %d\n\n\n", *out_value, queue->queue_info.name, queue->head, queue->tail);
+    fprintf(logfile, "%lg was poped from queue \"%s\"\ntail - %d\nhead - %d\n\n\n", *out_value, queue->queue_info.name, queue->tail, queue->head);
 
     return 0;
 }
@@ -120,7 +120,7 @@ int queue_dump(struct my_queue * queue, const char * func, const char * file, si
     {
         if (!isnan(queue->data[i]))
         {
-            if (!fprintf(logfile, "[%5d] - [%lg]\n", i, queue->data[i]))
+            if (!fprintf(logfile, "[%3d] - [%lg]\n", i, queue->data[i]))
             {
                 return 1;
             }  

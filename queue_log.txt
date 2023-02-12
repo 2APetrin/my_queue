@@ -2,1353 +2,1127 @@ Queue "&queue" was constructed
 
 
 0 was pushed to queue "&queue"
-head - 1
-tail - 0
+tail - 1
+head - 0
 
 
 1 was pushed to queue "&queue"
-head - 2
-tail - 0
+tail - 2
+head - 0
 
 
 2 was pushed to queue "&queue"
-head - 3
-tail - 0
+tail - 3
+head - 0
 
 
 3 was pushed to queue "&queue"
-head - 4
-tail - 0
+tail - 4
+head - 0
 
 
 4 was pushed to queue "&queue"
-head - 5
-tail - 0
+tail - 5
+head - 0
 
 
 5 was pushed to queue "&queue"
-head - 6
-tail - 0
+tail - 6
+head - 0
 
 
 6 was pushed to queue "&queue"
-head - 7
-tail - 0
+tail - 7
+head - 0
 
 
 7 was pushed to queue "&queue"
-head - 8
-tail - 0
+tail - 8
+head - 0
 
 
 8 was pushed to queue "&queue"
-head - 9
-tail - 0
+tail - 9
+head - 0
 
 
 9 was pushed to queue "&queue"
-head - 10
-tail - 0
+tail - 10
+head - 0
 
 
 10 was pushed to queue "&queue"
-head - 11
-tail - 0
+tail - 11
+head - 0
 
 
 11 was pushed to queue "&queue"
-head - 12
-tail - 0
+tail - 12
+head - 0
 
 
 12 was pushed to queue "&queue"
-head - 13
-tail - 0
+tail - 13
+head - 0
 
 
 13 was pushed to queue "&queue"
-head - 14
-tail - 0
+tail - 14
+head - 0
 
 
 14 was pushed to queue "&queue"
-head - 15
-tail - 0
+tail - 15
+head - 0
 
 
 15 was pushed to queue "&queue"
-head - 16
-tail - 0
+tail - 16
+head - 0
 
 
 16 was pushed to queue "&queue"
-head - 17
-tail - 0
+tail - 17
+head - 0
 
 
 17 was pushed to queue "&queue"
-head - 18
-tail - 0
+tail - 18
+head - 0
 
 
 18 was pushed to queue "&queue"
-head - 19
-tail - 0
+tail - 19
+head - 0
 
 
 19 was pushed to queue "&queue"
-head - 20
-tail - 0
+tail - 20
+head - 0
 
 
 20 was pushed to queue "&queue"
-head - 21
-tail - 0
+tail - 21
+head - 0
 
 
 21 was pushed to queue "&queue"
-head - 22
-tail - 0
+tail - 22
+head - 0
 
 
 22 was pushed to queue "&queue"
-head - 23
-tail - 0
+tail - 23
+head - 0
 
 
 23 was pushed to queue "&queue"
-head - 24
-tail - 0
+tail - 24
+head - 0
 
 
 24 was pushed to queue "&queue"
-head - 25
-tail - 0
+tail - 25
+head - 0
 
 
 25 was pushed to queue "&queue"
-head - 26
-tail - 0
+tail - 26
+head - 0
 
 
 26 was pushed to queue "&queue"
-head - 27
-tail - 0
+tail - 27
+head - 0
 
 
 27 was pushed to queue "&queue"
-head - 28
-tail - 0
+tail - 28
+head - 0
 
 
 28 was pushed to queue "&queue"
-head - 29
-tail - 0
+tail - 29
+head - 0
 
 
 29 was pushed to queue "&queue"
-head - 30
-tail - 0
+tail - 30
+head - 0
 
 
 30 was pushed to queue "&queue"
-head - 31
-tail - 0
+tail - 31
+head - 0
 
 
 31 was pushed to queue "&queue"
-head - 32
-tail - 0
+tail - 32
+head - 0
 
 
 32 was pushed to queue "&queue"
-head - 33
-tail - 0
+tail - 33
+head - 0
 
 
 33 was pushed to queue "&queue"
-head - 34
-tail - 0
+tail - 34
+head - 0
 
 
 34 was pushed to queue "&queue"
-head - 35
-tail - 0
+tail - 35
+head - 0
 
 
 35 was pushed to queue "&queue"
-head - 36
-tail - 0
+tail - 36
+head - 0
 
 
 36 was pushed to queue "&queue"
-head - 37
-tail - 0
+tail - 37
+head - 0
 
 
 37 was pushed to queue "&queue"
-head - 38
-tail - 0
+tail - 38
+head - 0
 
 
 38 was pushed to queue "&queue"
-head - 39
-tail - 0
+tail - 39
+head - 0
 
 
 39 was pushed to queue "&queue"
-head - 40
-tail - 0
+tail - 40
+head - 0
 
 
 40 was pushed to queue "&queue"
-head - 41
-tail - 0
+tail - 41
+head - 0
 
 
 41 was pushed to queue "&queue"
-head - 42
-tail - 0
+tail - 42
+head - 0
 
 
 42 was pushed to queue "&queue"
-head - 43
-tail - 0
+tail - 43
+head - 0
 
 
 43 was pushed to queue "&queue"
-head - 44
-tail - 0
+tail - 44
+head - 0
 
 
 44 was pushed to queue "&queue"
-head - 45
-tail - 0
+tail - 45
+head - 0
 
 
 45 was pushed to queue "&queue"
-head - 46
-tail - 0
+tail - 46
+head - 0
 
 
 46 was pushed to queue "&queue"
-head - 47
-tail - 0
+tail - 47
+head - 0
 
 
 47 was pushed to queue "&queue"
-head - 48
-tail - 0
+tail - 48
+head - 0
 
 
 48 was pushed to queue "&queue"
-head - 49
-tail - 0
+tail - 49
+head - 0
 
 
 49 was pushed to queue "&queue"
-head - 50
-tail - 0
+tail - 50
+head - 0
 
 
 50 was pushed to queue "&queue"
-head - 51
-tail - 0
+tail - 51
+head - 0
 
 
 51 was pushed to queue "&queue"
-head - 52
-tail - 0
+tail - 52
+head - 0
 
 
 52 was pushed to queue "&queue"
-head - 53
-tail - 0
+tail - 53
+head - 0
 
 
 53 was pushed to queue "&queue"
-head - 54
-tail - 0
+tail - 54
+head - 0
 
 
 54 was pushed to queue "&queue"
-head - 55
-tail - 0
+tail - 55
+head - 0
 
 
 55 was pushed to queue "&queue"
-head - 56
-tail - 0
+tail - 56
+head - 0
 
 
 56 was pushed to queue "&queue"
-head - 57
-tail - 0
+tail - 57
+head - 0
 
 
 57 was pushed to queue "&queue"
-head - 58
-tail - 0
+tail - 58
+head - 0
 
 
 58 was pushed to queue "&queue"
-head - 59
-tail - 0
+tail - 59
+head - 0
 
 
 59 was pushed to queue "&queue"
-head - 60
-tail - 0
+tail - 60
+head - 0
 
 
 60 was pushed to queue "&queue"
-head - 61
-tail - 0
+tail - 61
+head - 0
 
 
 61 was pushed to queue "&queue"
-head - 62
-tail - 0
+tail - 62
+head - 0
 
 
 62 was pushed to queue "&queue"
-head - 63
-tail - 0
+tail - 63
+head - 0
 
 
 63 was pushed to queue "&queue"
-head - 64
-tail - 0
+tail - 64
+head - 0
 
 
 64 was pushed to queue "&queue"
-head - 65
-tail - 0
+tail - 65
+head - 0
 
 
 65 was pushed to queue "&queue"
-head - 66
-tail - 0
+tail - 66
+head - 0
 
 
 66 was pushed to queue "&queue"
-head - 67
-tail - 0
+tail - 67
+head - 0
 
 
 67 was pushed to queue "&queue"
-head - 68
-tail - 0
+tail - 68
+head - 0
 
 
 68 was pushed to queue "&queue"
-head - 69
-tail - 0
+tail - 69
+head - 0
 
 
 69 was pushed to queue "&queue"
-head - 70
-tail - 0
+tail - 70
+head - 0
 
 
 70 was pushed to queue "&queue"
-head - 71
-tail - 0
+tail - 71
+head - 0
 
 
 71 was pushed to queue "&queue"
-head - 72
-tail - 0
+tail - 72
+head - 0
 
 
 72 was pushed to queue "&queue"
-head - 73
-tail - 0
+tail - 73
+head - 0
 
 
 73 was pushed to queue "&queue"
-head - 74
-tail - 0
+tail - 74
+head - 0
 
 
 74 was pushed to queue "&queue"
-head - 75
-tail - 0
+tail - 75
+head - 0
 
 
 75 was pushed to queue "&queue"
-head - 76
-tail - 0
+tail - 76
+head - 0
 
 
 76 was pushed to queue "&queue"
-head - 77
-tail - 0
+tail - 77
+head - 0
 
 
 77 was pushed to queue "&queue"
-head - 78
-tail - 0
+tail - 78
+head - 0
 
 
 78 was pushed to queue "&queue"
-head - 79
-tail - 0
+tail - 79
+head - 0
 
 
 79 was pushed to queue "&queue"
-head - 80
-tail - 0
+tail - 80
+head - 0
 
 
 80 was pushed to queue "&queue"
-head - 81
-tail - 0
+tail - 81
+head - 0
 
 
 81 was pushed to queue "&queue"
-head - 82
-tail - 0
+tail - 82
+head - 0
 
 
 82 was pushed to queue "&queue"
-head - 83
-tail - 0
+tail - 83
+head - 0
 
 
 83 was pushed to queue "&queue"
-head - 84
-tail - 0
+tail - 84
+head - 0
 
 
 84 was pushed to queue "&queue"
-head - 85
-tail - 0
+tail - 85
+head - 0
 
 
 85 was pushed to queue "&queue"
-head - 86
-tail - 0
+tail - 86
+head - 0
 
 
 86 was pushed to queue "&queue"
-head - 87
-tail - 0
+tail - 87
+head - 0
 
 
 87 was pushed to queue "&queue"
-head - 88
-tail - 0
+tail - 88
+head - 0
 
 
 88 was pushed to queue "&queue"
-head - 89
-tail - 0
+tail - 89
+head - 0
 
 
 89 was pushed to queue "&queue"
-head - 90
-tail - 0
+tail - 90
+head - 0
 
 
 90 was pushed to queue "&queue"
-head - 91
-tail - 0
+tail - 91
+head - 0
 
 
 91 was pushed to queue "&queue"
-head - 92
-tail - 0
+tail - 92
+head - 0
 
 
 92 was pushed to queue "&queue"
-head - 93
-tail - 0
+tail - 93
+head - 0
 
 
 93 was pushed to queue "&queue"
-head - 94
-tail - 0
+tail - 94
+head - 0
 
 
 94 was pushed to queue "&queue"
-head - 95
-tail - 0
+tail - 95
+head - 0
 
 
 95 was pushed to queue "&queue"
-head - 96
-tail - 0
+tail - 96
+head - 0
 
 
 96 was pushed to queue "&queue"
-head - 97
-tail - 0
+tail - 97
+head - 0
 
 
 97 was pushed to queue "&queue"
-head - 98
-tail - 0
+tail - 98
+head - 0
 
 
 98 was pushed to queue "&queue"
-head - 99
-tail - 0
+tail - 99
+head - 0
 
 
 99 was pushed to queue "&queue"
-head - 100
-tail - 0
+tail - 100
+head - 0
 
 
 100 was pushed to queue "&queue"
-head - 101
-tail - 0
+tail - 101
+head - 0
 
 
 101 was pushed to queue "&queue"
-head - 102
-tail - 0
+tail - 102
+head - 0
 
 
 102 was pushed to queue "&queue"
-head - 103
-tail - 0
+tail - 103
+head - 0
 
 
 103 was pushed to queue "&queue"
-head - 104
-tail - 0
+tail - 104
+head - 0
 
 
 104 was pushed to queue "&queue"
-head - 105
-tail - 0
+tail - 105
+head - 0
 
 
 105 was pushed to queue "&queue"
-head - 106
-tail - 0
+tail - 106
+head - 0
 
 
 106 was pushed to queue "&queue"
-head - 107
-tail - 0
+tail - 107
+head - 0
 
 
 107 was pushed to queue "&queue"
-head - 108
-tail - 0
+tail - 108
+head - 0
 
 
 108 was pushed to queue "&queue"
-head - 109
-tail - 0
+tail - 109
+head - 0
 
 
 109 was pushed to queue "&queue"
-head - 110
-tail - 0
+tail - 110
+head - 0
 
 
 110 was pushed to queue "&queue"
-head - 111
-tail - 0
+tail - 111
+head - 0
 
 
 111 was pushed to queue "&queue"
-head - 112
-tail - 0
+tail - 112
+head - 0
 
 
 112 was pushed to queue "&queue"
-head - 113
-tail - 0
+tail - 113
+head - 0
 
 
 113 was pushed to queue "&queue"
-head - 114
-tail - 0
+tail - 114
+head - 0
 
 
 114 was pushed to queue "&queue"
-head - 115
-tail - 0
+tail - 115
+head - 0
 
 
 115 was pushed to queue "&queue"
-head - 116
-tail - 0
+tail - 116
+head - 0
 
 
 116 was pushed to queue "&queue"
-head - 117
-tail - 0
+tail - 117
+head - 0
 
 
 117 was pushed to queue "&queue"
-head - 118
-tail - 0
+tail - 118
+head - 0
 
 
 118 was pushed to queue "&queue"
-head - 119
-tail - 0
+tail - 119
+head - 0
 
 
 119 was pushed to queue "&queue"
-head - 120
-tail - 0
+tail - 120
+head - 0
 
 
 120 was pushed to queue "&queue"
-head - 121
-tail - 0
+tail - 121
+head - 0
 
 
 121 was pushed to queue "&queue"
-head - 122
-tail - 0
+tail - 122
+head - 0
 
 
 122 was pushed to queue "&queue"
-head - 123
-tail - 0
+tail - 123
+head - 0
 
 
 123 was pushed to queue "&queue"
-head - 124
-tail - 0
+tail - 124
+head - 0
 
 
 124 was pushed to queue "&queue"
-head - 125
-tail - 0
+tail - 125
+head - 0
 
 
 125 was pushed to queue "&queue"
-head - 126
-tail - 0
+tail - 126
+head - 0
 
 
 126 was pushed to queue "&queue"
-head - 127
-tail - 0
+tail - 127
+head - 0
 
 
-127 was pushed to queue "&queue"
-head - 128
-tail - 0
+ERROR: queue overflow. Element 127 was not added to queue.
 
 
-128 was pushed to queue "&queue"
-head - 129
-tail - 0
+ERROR: queue overflow. Element 128 was not added to queue.
 
 
-129 was pushed to queue "&queue"
-head - 130
-tail - 0
+ERROR: queue overflow. Element 129 was not added to queue.
 
 
-130 was pushed to queue "&queue"
-head - 131
-tail - 0
+ERROR: queue overflow. Element 130 was not added to queue.
 
 
-131 was pushed to queue "&queue"
-head - 132
-tail - 0
+ERROR: queue overflow. Element 131 was not added to queue.
 
 
-132 was pushed to queue "&queue"
-head - 133
-tail - 0
+ERROR: queue overflow. Element 132 was not added to queue.
 
 
-133 was pushed to queue "&queue"
-head - 134
-tail - 0
+ERROR: queue overflow. Element 133 was not added to queue.
 
 
-134 was pushed to queue "&queue"
-head - 135
-tail - 0
+ERROR: queue overflow. Element 134 was not added to queue.
 
 
-135 was pushed to queue "&queue"
-head - 136
-tail - 0
+ERROR: queue overflow. Element 135 was not added to queue.
 
 
-136 was pushed to queue "&queue"
-head - 137
-tail - 0
+ERROR: queue overflow. Element 136 was not added to queue.
 
 
-137 was pushed to queue "&queue"
-head - 138
-tail - 0
+ERROR: queue overflow. Element 137 was not added to queue.
 
 
-138 was pushed to queue "&queue"
-head - 139
-tail - 0
+ERROR: queue overflow. Element 138 was not added to queue.
 
 
-139 was pushed to queue "&queue"
-head - 140
-tail - 0
+ERROR: queue overflow. Element 139 was not added to queue.
 
 
-140 was pushed to queue "&queue"
-head - 141
-tail - 0
+ERROR: queue overflow. Element 140 was not added to queue.
 
 
-141 was pushed to queue "&queue"
-head - 142
-tail - 0
+ERROR: queue overflow. Element 141 was not added to queue.
 
 
-142 was pushed to queue "&queue"
-head - 143
-tail - 0
+ERROR: queue overflow. Element 142 was not added to queue.
 
 
-143 was pushed to queue "&queue"
-head - 144
-tail - 0
+ERROR: queue overflow. Element 143 was not added to queue.
 
 
-144 was pushed to queue "&queue"
-head - 145
-tail - 0
+ERROR: queue overflow. Element 144 was not added to queue.
 
 
-145 was pushed to queue "&queue"
-head - 146
-tail - 0
+ERROR: queue overflow. Element 145 was not added to queue.
 
 
-146 was pushed to queue "&queue"
-head - 147
-tail - 0
+ERROR: queue overflow. Element 146 was not added to queue.
 
 
-147 was pushed to queue "&queue"
-head - 148
-tail - 0
+ERROR: queue overflow. Element 147 was not added to queue.
 
 
-148 was pushed to queue "&queue"
-head - 149
-tail - 0
+ERROR: queue overflow. Element 148 was not added to queue.
 
 
-149 was pushed to queue "&queue"
-head - 150
-tail - 0
+ERROR: queue overflow. Element 149 was not added to queue.
 
 
-150 was pushed to queue "&queue"
-head - 151
-tail - 0
+ERROR: queue overflow. Element 150 was not added to queue.
 
 
-151 was pushed to queue "&queue"
-head - 152
-tail - 0
+ERROR: queue overflow. Element 151 was not added to queue.
 
 
-152 was pushed to queue "&queue"
-head - 153
-tail - 0
+ERROR: queue overflow. Element 152 was not added to queue.
 
 
-153 was pushed to queue "&queue"
-head - 154
-tail - 0
+ERROR: queue overflow. Element 153 was not added to queue.
 
 
-154 was pushed to queue "&queue"
-head - 155
-tail - 0
+ERROR: queue overflow. Element 154 was not added to queue.
 
 
-155 was pushed to queue "&queue"
-head - 156
-tail - 0
+ERROR: queue overflow. Element 155 was not added to queue.
 
 
-156 was pushed to queue "&queue"
-head - 157
-tail - 0
+ERROR: queue overflow. Element 156 was not added to queue.
 
 
-157 was pushed to queue "&queue"
-head - 158
-tail - 0
+ERROR: queue overflow. Element 157 was not added to queue.
 
 
-158 was pushed to queue "&queue"
-head - 159
-tail - 0
+ERROR: queue overflow. Element 158 was not added to queue.
 
 
-159 was pushed to queue "&queue"
-head - 160
-tail - 0
+ERROR: queue overflow. Element 159 was not added to queue.
 
 
-160 was pushed to queue "&queue"
-head - 161
-tail - 0
+ERROR: queue overflow. Element 160 was not added to queue.
 
 
-161 was pushed to queue "&queue"
-head - 162
-tail - 0
+ERROR: queue overflow. Element 161 was not added to queue.
 
 
-162 was pushed to queue "&queue"
-head - 163
-tail - 0
+ERROR: queue overflow. Element 162 was not added to queue.
 
 
-163 was pushed to queue "&queue"
-head - 164
-tail - 0
+ERROR: queue overflow. Element 163 was not added to queue.
 
 
-164 was pushed to queue "&queue"
-head - 165
-tail - 0
+ERROR: queue overflow. Element 164 was not added to queue.
 
 
-165 was pushed to queue "&queue"
-head - 166
-tail - 0
+ERROR: queue overflow. Element 165 was not added to queue.
 
 
-166 was pushed to queue "&queue"
-head - 167
-tail - 0
+ERROR: queue overflow. Element 166 was not added to queue.
 
 
-167 was pushed to queue "&queue"
-head - 168
-tail - 0
+ERROR: queue overflow. Element 167 was not added to queue.
 
 
-168 was pushed to queue "&queue"
-head - 169
-tail - 0
+ERROR: queue overflow. Element 168 was not added to queue.
 
 
-169 was pushed to queue "&queue"
-head - 170
-tail - 0
+ERROR: queue overflow. Element 169 was not added to queue.
 
 
-170 was pushed to queue "&queue"
-head - 171
-tail - 0
+ERROR: queue overflow. Element 170 was not added to queue.
 
 
-171 was pushed to queue "&queue"
-head - 172
-tail - 0
+ERROR: queue overflow. Element 171 was not added to queue.
 
 
-172 was pushed to queue "&queue"
-head - 173
-tail - 0
+ERROR: queue overflow. Element 172 was not added to queue.
 
 
-173 was pushed to queue "&queue"
-head - 174
-tail - 0
+ERROR: queue overflow. Element 173 was not added to queue.
 
 
-174 was pushed to queue "&queue"
-head - 175
-tail - 0
+ERROR: queue overflow. Element 174 was not added to queue.
 
 
-175 was pushed to queue "&queue"
-head - 176
-tail - 0
+ERROR: queue overflow. Element 175 was not added to queue.
 
 
-176 was pushed to queue "&queue"
-head - 177
-tail - 0
+ERROR: queue overflow. Element 176 was not added to queue.
 
 
-177 was pushed to queue "&queue"
-head - 178
-tail - 0
+ERROR: queue overflow. Element 177 was not added to queue.
 
 
-178 was pushed to queue "&queue"
-head - 179
-tail - 0
+ERROR: queue overflow. Element 178 was not added to queue.
 
 
-179 was pushed to queue "&queue"
-head - 180
-tail - 0
+ERROR: queue overflow. Element 179 was not added to queue.
 
 
-180 was pushed to queue "&queue"
-head - 181
-tail - 0
+ERROR: queue overflow. Element 180 was not added to queue.
 
 
-181 was pushed to queue "&queue"
-head - 182
-tail - 0
+ERROR: queue overflow. Element 181 was not added to queue.
 
 
-182 was pushed to queue "&queue"
-head - 183
-tail - 0
+ERROR: queue overflow. Element 182 was not added to queue.
 
 
-183 was pushed to queue "&queue"
-head - 184
-tail - 0
+ERROR: queue overflow. Element 183 was not added to queue.
 
 
-184 was pushed to queue "&queue"
-head - 185
-tail - 0
+ERROR: queue overflow. Element 184 was not added to queue.
 
 
-185 was pushed to queue "&queue"
-head - 186
-tail - 0
+ERROR: queue overflow. Element 185 was not added to queue.
 
 
-186 was pushed to queue "&queue"
-head - 187
-tail - 0
+ERROR: queue overflow. Element 186 was not added to queue.
 
 
-187 was pushed to queue "&queue"
-head - 188
-tail - 0
+ERROR: queue overflow. Element 187 was not added to queue.
 
 
-188 was pushed to queue "&queue"
-head - 189
-tail - 0
+ERROR: queue overflow. Element 188 was not added to queue.
 
 
-189 was pushed to queue "&queue"
-head - 190
-tail - 0
+ERROR: queue overflow. Element 189 was not added to queue.
 
 
-190 was pushed to queue "&queue"
-head - 191
-tail - 0
+ERROR: queue overflow. Element 190 was not added to queue.
 
 
-191 was pushed to queue "&queue"
-head - 192
-tail - 0
+ERROR: queue overflow. Element 191 was not added to queue.
 
 
-192 was pushed to queue "&queue"
-head - 193
-tail - 0
+ERROR: queue overflow. Element 192 was not added to queue.
 
 
-193 was pushed to queue "&queue"
-head - 194
-tail - 0
+ERROR: queue overflow. Element 193 was not added to queue.
 
 
-194 was pushed to queue "&queue"
-head - 195
-tail - 0
+ERROR: queue overflow. Element 194 was not added to queue.
 
 
-195 was pushed to queue "&queue"
-head - 196
-tail - 0
+ERROR: queue overflow. Element 195 was not added to queue.
 
 
-196 was pushed to queue "&queue"
-head - 197
-tail - 0
+ERROR: queue overflow. Element 196 was not added to queue.
 
 
-197 was pushed to queue "&queue"
-head - 198
-tail - 0
+ERROR: queue overflow. Element 197 was not added to queue.
 
 
-198 was pushed to queue "&queue"
-head - 199
-tail - 0
+ERROR: queue overflow. Element 198 was not added to queue.
 
 
-199 was pushed to queue "&queue"
-head - 200
-tail - 0
+ERROR: queue overflow. Element 199 was not added to queue.
 
 
-200 was pushed to queue "&queue"
-head - 201
-tail - 0
+ERROR: queue overflow. Element 200 was not added to queue.
 
 
-201 was pushed to queue "&queue"
-head - 202
-tail - 0
+ERROR: queue overflow. Element 201 was not added to queue.
 
 
-202 was pushed to queue "&queue"
-head - 203
-tail - 0
+ERROR: queue overflow. Element 202 was not added to queue.
 
 
-203 was pushed to queue "&queue"
-head - 204
-tail - 0
+ERROR: queue overflow. Element 203 was not added to queue.
 
 
-204 was pushed to queue "&queue"
-head - 205
-tail - 0
+ERROR: queue overflow. Element 204 was not added to queue.
 
 
-205 was pushed to queue "&queue"
-head - 206
-tail - 0
+ERROR: queue overflow. Element 205 was not added to queue.
 
 
-206 was pushed to queue "&queue"
-head - 207
-tail - 0
+ERROR: queue overflow. Element 206 was not added to queue.
 
 
-207 was pushed to queue "&queue"
-head - 208
-tail - 0
+ERROR: queue overflow. Element 207 was not added to queue.
 
 
-208 was pushed to queue "&queue"
-head - 209
-tail - 0
+ERROR: queue overflow. Element 208 was not added to queue.
 
 
-209 was pushed to queue "&queue"
-head - 210
-tail - 0
+ERROR: queue overflow. Element 209 was not added to queue.
 
 
-210 was pushed to queue "&queue"
-head - 211
-tail - 0
+ERROR: queue overflow. Element 210 was not added to queue.
 
 
-211 was pushed to queue "&queue"
-head - 212
-tail - 0
+ERROR: queue overflow. Element 211 was not added to queue.
 
 
-212 was pushed to queue "&queue"
-head - 213
-tail - 0
+ERROR: queue overflow. Element 212 was not added to queue.
 
 
-213 was pushed to queue "&queue"
-head - 214
-tail - 0
+ERROR: queue overflow. Element 213 was not added to queue.
 
 
-214 was pushed to queue "&queue"
-head - 215
-tail - 0
+ERROR: queue overflow. Element 214 was not added to queue.
 
 
-215 was pushed to queue "&queue"
-head - 216
-tail - 0
+ERROR: queue overflow. Element 215 was not added to queue.
 
 
-216 was pushed to queue "&queue"
-head - 217
-tail - 0
+ERROR: queue overflow. Element 216 was not added to queue.
 
 
-217 was pushed to queue "&queue"
-head - 218
-tail - 0
+ERROR: queue overflow. Element 217 was not added to queue.
 
 
-218 was pushed to queue "&queue"
-head - 219
-tail - 0
+ERROR: queue overflow. Element 218 was not added to queue.
 
 
-219 was pushed to queue "&queue"
-head - 220
-tail - 0
+ERROR: queue overflow. Element 219 was not added to queue.
 
 
-220 was pushed to queue "&queue"
-head - 221
-tail - 0
+ERROR: queue overflow. Element 220 was not added to queue.
 
 
-221 was pushed to queue "&queue"
-head - 222
-tail - 0
+ERROR: queue overflow. Element 221 was not added to queue.
 
 
-222 was pushed to queue "&queue"
-head - 223
-tail - 0
+ERROR: queue overflow. Element 222 was not added to queue.
 
 
-223 was pushed to queue "&queue"
-head - 224
-tail - 0
+ERROR: queue overflow. Element 223 was not added to queue.
 
 
-224 was pushed to queue "&queue"
-head - 225
-tail - 0
+ERROR: queue overflow. Element 224 was not added to queue.
 
 
-225 was pushed to queue "&queue"
-head - 226
-tail - 0
+ERROR: queue overflow. Element 225 was not added to queue.
 
 
-226 was pushed to queue "&queue"
-head - 227
-tail - 0
+ERROR: queue overflow. Element 226 was not added to queue.
 
 
-227 was pushed to queue "&queue"
-head - 228
-tail - 0
+ERROR: queue overflow. Element 227 was not added to queue.
 
 
-228 was pushed to queue "&queue"
-head - 229
-tail - 0
+ERROR: queue overflow. Element 228 was not added to queue.
 
 
-229 was pushed to queue "&queue"
-head - 230
-tail - 0
+ERROR: queue overflow. Element 229 was not added to queue.
 
 
-230 was pushed to queue "&queue"
-head - 231
-tail - 0
+ERROR: queue overflow. Element 230 was not added to queue.
 
 
-231 was pushed to queue "&queue"
-head - 232
-tail - 0
+ERROR: queue overflow. Element 231 was not added to queue.
 
 
-232 was pushed to queue "&queue"
-head - 233
-tail - 0
+ERROR: queue overflow. Element 232 was not added to queue.
 
 
-233 was pushed to queue "&queue"
-head - 234
-tail - 0
+ERROR: queue overflow. Element 233 was not added to queue.
 
 
-234 was pushed to queue "&queue"
-head - 235
-tail - 0
+ERROR: queue overflow. Element 234 was not added to queue.
 
 
-235 was pushed to queue "&queue"
-head - 236
-tail - 0
+ERROR: queue overflow. Element 235 was not added to queue.
 
 
-236 was pushed to queue "&queue"
-head - 237
-tail - 0
+ERROR: queue overflow. Element 236 was not added to queue.
 
 
-237 was pushed to queue "&queue"
-head - 238
-tail - 0
+ERROR: queue overflow. Element 237 was not added to queue.
 
 
-238 was pushed to queue "&queue"
-head - 239
-tail - 0
+ERROR: queue overflow. Element 238 was not added to queue.
 
 
-239 was pushed to queue "&queue"
-head - 240
-tail - 0
+ERROR: queue overflow. Element 239 was not added to queue.
 
 
 0 was poped from queue "&queue"
-head - 240
-tail - 1
+tail - 127
+head - 1
 
 
 1 was poped from queue "&queue"
-head - 240
-tail - 2
+tail - 127
+head - 2
 
 
 2 was poped from queue "&queue"
-head - 240
-tail - 3
+tail - 127
+head - 3
 
 
 3 was poped from queue "&queue"
-head - 240
-tail - 4
+tail - 127
+head - 4
 
 
 4 was poped from queue "&queue"
-head - 240
-tail - 5
+tail - 127
+head - 5
 
 
 5 was poped from queue "&queue"
-head - 240
-tail - 6
+tail - 127
+head - 6
 
 
 6 was poped from queue "&queue"
-head - 240
-tail - 7
+tail - 127
+head - 7
 
 
 7 was poped from queue "&queue"
-head - 240
-tail - 8
+tail - 127
+head - 8
 
 
 8 was poped from queue "&queue"
-head - 240
-tail - 9
+tail - 127
+head - 9
 
 
 9 was poped from queue "&queue"
-head - 240
-tail - 10
+tail - 127
+head - 10
 
 
 10 was poped from queue "&queue"
-head - 240
-tail - 11
+tail - 127
+head - 11
 
 
 11 was poped from queue "&queue"
-head - 240
-tail - 12
+tail - 127
+head - 12
 
 
 12 was poped from queue "&queue"
-head - 240
-tail - 13
+tail - 127
+head - 13
 
 
 13 was poped from queue "&queue"
-head - 240
-tail - 14
+tail - 127
+head - 14
 
 
 14 was poped from queue "&queue"
-head - 240
-tail - 15
+tail - 127
+head - 15
 
 
 15 was poped from queue "&queue"
-head - 240
-tail - 16
+tail - 127
+head - 16
 
 
 16 was poped from queue "&queue"
-head - 240
-tail - 17
+tail - 127
+head - 17
 
 
 17 was poped from queue "&queue"
-head - 240
-tail - 18
+tail - 127
+head - 18
 
 
 18 was poped from queue "&queue"
-head - 240
-tail - 19
+tail - 127
+head - 19
 
 
 19 was poped from queue "&queue"
-head - 240
-tail - 20
+tail - 127
+head - 20
 
 
 20 was poped from queue "&queue"
-head - 240
-tail - 21
+tail - 127
+head - 21
 
 
 21 was poped from queue "&queue"
-head - 240
-tail - 22
+tail - 127
+head - 22
 
 
 22 was poped from queue "&queue"
-head - 240
-tail - 23
+tail - 127
+head - 23
 
 
 23 was poped from queue "&queue"
-head - 240
-tail - 24
+tail - 127
+head - 24
 
 
 24 was poped from queue "&queue"
-head - 240
-tail - 25
+tail - 127
+head - 25
 
 
 25 was poped from queue "&queue"
-head - 240
-tail - 26
+tail - 127
+head - 26
 
 
 26 was poped from queue "&queue"
-head - 240
-tail - 27
+tail - 127
+head - 27
 
 
 27 was poped from queue "&queue"
-head - 240
-tail - 28
+tail - 127
+head - 28
 
 
 28 was poped from queue "&queue"
-head - 240
-tail - 29
+tail - 127
+head - 29
 
 
 29 was poped from queue "&queue"
-head - 240
-tail - 30
+tail - 127
+head - 30
 
 
     DUMP from:
@@ -1356,441 +1130,298 @@ file - main.cpp
 func - int main()
 line - 21
 queue - "&queue"
-[   30] - [30]
-[   31] - [31]
-[   32] - [32]
-[   33] - [33]
-[   34] - [34]
-[   35] - [35]
-[   36] - [36]
-[   37] - [37]
-[   38] - [38]
-[   39] - [39]
-[   40] - [40]
-[   41] - [41]
-[   42] - [42]
-[   43] - [43]
-[   44] - [44]
-[   45] - [45]
-[   46] - [46]
-[   47] - [47]
-[   48] - [48]
-[   49] - [49]
-[   50] - [50]
-[   51] - [51]
-[   52] - [52]
-[   53] - [53]
-[   54] - [54]
-[   55] - [55]
-[   56] - [56]
-[   57] - [57]
-[   58] - [58]
-[   59] - [59]
-[   60] - [60]
-[   61] - [61]
-[   62] - [62]
-[   63] - [63]
-[   64] - [64]
-[   65] - [65]
-[   66] - [66]
-[   67] - [67]
-[   68] - [68]
-[   69] - [69]
-[   70] - [70]
-[   71] - [71]
-[   72] - [72]
-[   73] - [73]
-[   74] - [74]
-[   75] - [75]
-[   76] - [76]
-[   77] - [77]
-[   78] - [78]
-[   79] - [79]
-[   80] - [80]
-[   81] - [81]
-[   82] - [82]
-[   83] - [83]
-[   84] - [84]
-[   85] - [85]
-[   86] - [86]
-[   87] - [87]
-[   88] - [88]
-[   89] - [89]
-[   90] - [90]
-[   91] - [91]
-[   92] - [92]
-[   93] - [93]
-[   94] - [94]
-[   95] - [95]
-[   96] - [96]
-[   97] - [97]
-[   98] - [98]
-[   99] - [99]
-[  100] - [100]
-[  101] - [101]
-[  102] - [102]
-[  103] - [103]
-[  104] - [104]
-[  105] - [105]
-[  106] - [106]
-[  107] - [107]
-[  108] - [108]
-[  109] - [109]
-[  110] - [110]
-[  111] - [111]
-[  112] - [112]
-[  113] - [113]
-[  114] - [114]
-[  115] - [115]
-[  116] - [116]
-[  117] - [117]
-[  118] - [118]
-[  119] - [119]
-[  120] - [120]
-[  121] - [121]
-[  122] - [122]
-[  123] - [123]
-[  124] - [124]
-[  125] - [125]
-[  126] - [126]
-[  127] - [127]
-[  128] - [128]
-[  129] - [129]
-[  130] - [130]
-[  131] - [131]
-[  132] - [132]
-[  133] - [133]
-[  134] - [134]
-[  135] - [135]
-[  136] - [136]
-[  137] - [137]
-[  138] - [138]
-[  139] - [139]
-[  140] - [140]
-[  141] - [141]
-[  142] - [142]
-[  143] - [143]
-[  144] - [144]
-[  145] - [145]
-[  146] - [146]
-[  147] - [147]
-[  148] - [148]
-[  149] - [149]
-[  150] - [150]
-[  151] - [151]
-[  152] - [152]
-[  153] - [153]
-[  154] - [154]
-[  155] - [155]
-[  156] - [156]
-[  157] - [157]
-[  158] - [158]
-[  159] - [159]
-[  160] - [160]
-[  161] - [161]
-[  162] - [162]
-[  163] - [163]
-[  164] - [164]
-[  165] - [165]
-[  166] - [166]
-[  167] - [167]
-[  168] - [168]
-[  169] - [169]
-[  170] - [170]
-[  171] - [171]
-[  172] - [172]
-[  173] - [173]
-[  174] - [174]
-[  175] - [175]
-[  176] - [176]
-[  177] - [177]
-[  178] - [178]
-[  179] - [179]
-[  180] - [180]
-[  181] - [181]
-[  182] - [182]
-[  183] - [183]
-[  184] - [184]
-[  185] - [185]
-[  186] - [186]
-[  187] - [187]
-[  188] - [188]
-[  189] - [189]
-[  190] - [190]
-[  191] - [191]
-[  192] - [192]
-[  193] - [193]
-[  194] - [194]
-[  195] - [195]
-[  196] - [196]
-[  197] - [197]
-[  198] - [198]
-[  199] - [199]
-[  200] - [200]
-[  201] - [201]
-[  202] - [202]
-[  203] - [203]
-[  204] - [204]
-[  205] - [205]
-[  206] - [206]
-[  207] - [207]
-[  208] - [208]
-[  209] - [209]
-[  210] - [210]
-[  211] - [211]
-[  212] - [212]
-[  213] - [213]
-[  214] - [214]
-[  215] - [215]
-[  216] - [216]
-[  217] - [217]
-[  218] - [218]
-[  219] - [219]
-[  220] - [220]
-[  221] - [221]
-[  222] - [222]
-[  223] - [223]
-[  224] - [224]
-[  225] - [225]
-[  226] - [226]
-[  227] - [227]
-[  228] - [228]
-[  229] - [229]
-[  230] - [230]
-[  231] - [231]
-[  232] - [232]
-[  233] - [233]
-[  234] - [234]
-[  235] - [235]
-[  236] - [236]
-[  237] - [237]
-[  238] - [238]
-[  239] - [239]
+[ 30] - [30]
+[ 31] - [31]
+[ 32] - [32]
+[ 33] - [33]
+[ 34] - [34]
+[ 35] - [35]
+[ 36] - [36]
+[ 37] - [37]
+[ 38] - [38]
+[ 39] - [39]
+[ 40] - [40]
+[ 41] - [41]
+[ 42] - [42]
+[ 43] - [43]
+[ 44] - [44]
+[ 45] - [45]
+[ 46] - [46]
+[ 47] - [47]
+[ 48] - [48]
+[ 49] - [49]
+[ 50] - [50]
+[ 51] - [51]
+[ 52] - [52]
+[ 53] - [53]
+[ 54] - [54]
+[ 55] - [55]
+[ 56] - [56]
+[ 57] - [57]
+[ 58] - [58]
+[ 59] - [59]
+[ 60] - [60]
+[ 61] - [61]
+[ 62] - [62]
+[ 63] - [63]
+[ 64] - [64]
+[ 65] - [65]
+[ 66] - [66]
+[ 67] - [67]
+[ 68] - [68]
+[ 69] - [69]
+[ 70] - [70]
+[ 71] - [71]
+[ 72] - [72]
+[ 73] - [73]
+[ 74] - [74]
+[ 75] - [75]
+[ 76] - [76]
+[ 77] - [77]
+[ 78] - [78]
+[ 79] - [79]
+[ 80] - [80]
+[ 81] - [81]
+[ 82] - [82]
+[ 83] - [83]
+[ 84] - [84]
+[ 85] - [85]
+[ 86] - [86]
+[ 87] - [87]
+[ 88] - [88]
+[ 89] - [89]
+[ 90] - [90]
+[ 91] - [91]
+[ 92] - [92]
+[ 93] - [93]
+[ 94] - [94]
+[ 95] - [95]
+[ 96] - [96]
+[ 97] - [97]
+[ 98] - [98]
+[ 99] - [99]
+[100] - [100]
+[101] - [101]
+[102] - [102]
+[103] - [103]
+[104] - [104]
+[105] - [105]
+[106] - [106]
+[107] - [107]
+[108] - [108]
+[109] - [109]
+[110] - [110]
+[111] - [111]
+[112] - [112]
+[113] - [113]
+[114] - [114]
+[115] - [115]
+[116] - [116]
+[117] - [117]
+[118] - [118]
+[119] - [119]
+[120] - [120]
+[121] - [121]
+[122] - [122]
+[123] - [123]
+[124] - [124]
+[125] - [125]
+[126] - [126]
 
 
 0 was pushed to queue "&queue"
-head - 241
-tail - 30
+tail - 0
+head - 30
 
 
 1 was pushed to queue "&queue"
-head - 242
-tail - 30
+tail - 1
+head - 30
 
 
 2 was pushed to queue "&queue"
-head - 243
-tail - 30
+tail - 2
+head - 30
 
 
 3 was pushed to queue "&queue"
-head - 244
-tail - 30
+tail - 3
+head - 30
 
 
 4 was pushed to queue "&queue"
-head - 245
-tail - 30
+tail - 4
+head - 30
 
 
 5 was pushed to queue "&queue"
-head - 246
-tail - 30
+tail - 5
+head - 30
 
 
 6 was pushed to queue "&queue"
-head - 247
-tail - 30
+tail - 6
+head - 30
 
 
 7 was pushed to queue "&queue"
-head - 248
-tail - 30
+tail - 7
+head - 30
 
 
 8 was pushed to queue "&queue"
-head - 249
-tail - 30
+tail - 8
+head - 30
 
 
 9 was pushed to queue "&queue"
-head - 250
-tail - 30
+tail - 9
+head - 30
 
 
 10 was pushed to queue "&queue"
-head - 251
-tail - 30
+tail - 10
+head - 30
 
 
 11 was pushed to queue "&queue"
-head - 252
-tail - 30
+tail - 11
+head - 30
 
 
 12 was pushed to queue "&queue"
-head - 253
-tail - 30
+tail - 12
+head - 30
 
 
 13 was pushed to queue "&queue"
-head - 254
-tail - 30
+tail - 13
+head - 30
 
 
 14 was pushed to queue "&queue"
-head - 255
-tail - 30
+tail - 14
+head - 30
 
 
 15 was pushed to queue "&queue"
-head - 0
-tail - 30
+tail - 15
+head - 30
 
 
 16 was pushed to queue "&queue"
-head - 1
-tail - 30
+tail - 16
+head - 30
 
 
 17 was pushed to queue "&queue"
-head - 2
-tail - 30
+tail - 17
+head - 30
 
 
 18 was pushed to queue "&queue"
-head - 3
-tail - 30
+tail - 18
+head - 30
 
 
 19 was pushed to queue "&queue"
-head - 4
-tail - 30
+tail - 19
+head - 30
 
 
 20 was pushed to queue "&queue"
-head - 5
-tail - 30
+tail - 20
+head - 30
 
 
 21 was pushed to queue "&queue"
-head - 6
-tail - 30
+tail - 21
+head - 30
 
 
 22 was pushed to queue "&queue"
-head - 7
-tail - 30
+tail - 22
+head - 30
 
 
 23 was pushed to queue "&queue"
-head - 8
-tail - 30
+tail - 23
+head - 30
 
 
 24 was pushed to queue "&queue"
-head - 9
-tail - 30
+tail - 24
+head - 30
 
 
 25 was pushed to queue "&queue"
-head - 10
-tail - 30
+tail - 25
+head - 30
 
 
 26 was pushed to queue "&queue"
-head - 11
-tail - 30
+tail - 26
+head - 30
 
 
 27 was pushed to queue "&queue"
-head - 12
-tail - 30
+tail - 27
+head - 30
 
 
 28 was pushed to queue "&queue"
-head - 13
-tail - 30
+tail - 28
+head - 30
 
 
 29 was pushed to queue "&queue"
-head - 14
-tail - 30
+tail - 29
+head - 30
 
 
-30 was pushed to queue "&queue"
-head - 15
-tail - 30
+ERROR: queue overflow. Element 30 was not added to queue.
 
 
-31 was pushed to queue "&queue"
-head - 16
-tail - 30
+ERROR: queue overflow. Element 31 was not added to queue.
 
 
-32 was pushed to queue "&queue"
-head - 17
-tail - 30
+ERROR: queue overflow. Element 32 was not added to queue.
 
 
-33 was pushed to queue "&queue"
-head - 18
-tail - 30
+ERROR: queue overflow. Element 33 was not added to queue.
 
 
-34 was pushed to queue "&queue"
-head - 19
-tail - 30
+ERROR: queue overflow. Element 34 was not added to queue.
 
 
-35 was pushed to queue "&queue"
-head - 20
-tail - 30
+ERROR: queue overflow. Element 35 was not added to queue.
 
 
-36 was pushed to queue "&queue"
-head - 21
-tail - 30
+ERROR: queue overflow. Element 36 was not added to queue.
 
 
-37 was pushed to queue "&queue"
-head - 22
-tail - 30
+ERROR: queue overflow. Element 37 was not added to queue.
 
 
-38 was pushed to queue "&queue"
-head - 23
-tail - 30
+ERROR: queue overflow. Element 38 was not added to queue.
 
 
-39 was pushed to queue "&queue"
-head - 24
-tail - 30
+ERROR: queue overflow. Element 39 was not added to queue.
 
 
-40 was pushed to queue "&queue"
-head - 25
-tail - 30
+ERROR: queue overflow. Element 40 was not added to queue.
 
 
-41 was pushed to queue "&queue"
-head - 26
-tail - 30
+ERROR: queue overflow. Element 41 was not added to queue.
 
 
-42 was pushed to queue "&queue"
-head - 27
-tail - 30
+ERROR: queue overflow. Element 42 was not added to queue.
 
 
-43 was pushed to queue "&queue"
-head - 28
-tail - 30
+ERROR: queue overflow. Element 43 was not added to queue.
 
 
-44 was pushed to queue "&queue"
-head - 29
-tail - 30
+ERROR: queue overflow. Element 44 was not added to queue.
 
 
 ERROR: queue overflow. Element 45 was not added to queue.
@@ -1809,1278 +1440,1022 @@ ERROR: queue overflow. Element 49 was not added to queue.
 
 
 30 was poped from queue "&queue"
-head - 29
-tail - 31
+tail - 29
+head - 31
 
 
 31 was poped from queue "&queue"
-head - 29
-tail - 32
+tail - 29
+head - 32
 
 
 32 was poped from queue "&queue"
-head - 29
-tail - 33
+tail - 29
+head - 33
 
 
 33 was poped from queue "&queue"
-head - 29
-tail - 34
+tail - 29
+head - 34
 
 
 34 was poped from queue "&queue"
-head - 29
-tail - 35
+tail - 29
+head - 35
 
 
 35 was poped from queue "&queue"
-head - 29
-tail - 36
+tail - 29
+head - 36
 
 
 36 was poped from queue "&queue"
-head - 29
-tail - 37
+tail - 29
+head - 37
 
 
 37 was poped from queue "&queue"
-head - 29
-tail - 38
+tail - 29
+head - 38
 
 
 38 was poped from queue "&queue"
-head - 29
-tail - 39
+tail - 29
+head - 39
 
 
 39 was poped from queue "&queue"
-head - 29
-tail - 40
+tail - 29
+head - 40
 
 
 40 was poped from queue "&queue"
-head - 29
-tail - 41
+tail - 29
+head - 41
 
 
 41 was poped from queue "&queue"
-head - 29
-tail - 42
+tail - 29
+head - 42
 
 
 42 was poped from queue "&queue"
-head - 29
-tail - 43
+tail - 29
+head - 43
 
 
 43 was poped from queue "&queue"
-head - 29
-tail - 44
+tail - 29
+head - 44
 
 
 44 was poped from queue "&queue"
-head - 29
-tail - 45
+tail - 29
+head - 45
 
 
 45 was poped from queue "&queue"
-head - 29
-tail - 46
+tail - 29
+head - 46
 
 
 46 was poped from queue "&queue"
-head - 29
-tail - 47
+tail - 29
+head - 47
 
 
 47 was poped from queue "&queue"
-head - 29
-tail - 48
+tail - 29
+head - 48
 
 
 48 was poped from queue "&queue"
-head - 29
-tail - 49
+tail - 29
+head - 49
 
 
 49 was poped from queue "&queue"
-head - 29
-tail - 50
+tail - 29
+head - 50
 
 
 50 was poped from queue "&queue"
-head - 29
-tail - 51
+tail - 29
+head - 51
 
 
 51 was poped from queue "&queue"
-head - 29
-tail - 52
+tail - 29
+head - 52
 
 
 52 was poped from queue "&queue"
-head - 29
-tail - 53
+tail - 29
+head - 53
 
 
 53 was poped from queue "&queue"
-head - 29
-tail - 54
+tail - 29
+head - 54
 
 
 54 was poped from queue "&queue"
-head - 29
-tail - 55
+tail - 29
+head - 55
 
 
 55 was poped from queue "&queue"
-head - 29
-tail - 56
+tail - 29
+head - 56
 
 
 56 was poped from queue "&queue"
-head - 29
-tail - 57
+tail - 29
+head - 57
 
 
 57 was poped from queue "&queue"
-head - 29
-tail - 58
+tail - 29
+head - 58
 
 
 58 was poped from queue "&queue"
-head - 29
-tail - 59
+tail - 29
+head - 59
 
 
 59 was poped from queue "&queue"
-head - 29
-tail - 60
+tail - 29
+head - 60
 
 
 60 was poped from queue "&queue"
-head - 29
-tail - 61
+tail - 29
+head - 61
 
 
 61 was poped from queue "&queue"
-head - 29
-tail - 62
+tail - 29
+head - 62
 
 
 62 was poped from queue "&queue"
-head - 29
-tail - 63
+tail - 29
+head - 63
 
 
 63 was poped from queue "&queue"
-head - 29
-tail - 64
+tail - 29
+head - 64
 
 
 64 was poped from queue "&queue"
-head - 29
-tail - 65
+tail - 29
+head - 65
 
 
 65 was poped from queue "&queue"
-head - 29
-tail - 66
+tail - 29
+head - 66
 
 
 66 was poped from queue "&queue"
-head - 29
-tail - 67
+tail - 29
+head - 67
 
 
 67 was poped from queue "&queue"
-head - 29
-tail - 68
+tail - 29
+head - 68
 
 
 68 was poped from queue "&queue"
-head - 29
-tail - 69
+tail - 29
+head - 69
 
 
 69 was poped from queue "&queue"
-head - 29
-tail - 70
+tail - 29
+head - 70
 
 
 70 was poped from queue "&queue"
-head - 29
-tail - 71
+tail - 29
+head - 71
 
 
 71 was poped from queue "&queue"
-head - 29
-tail - 72
+tail - 29
+head - 72
 
 
 72 was poped from queue "&queue"
-head - 29
-tail - 73
+tail - 29
+head - 73
 
 
 73 was poped from queue "&queue"
-head - 29
-tail - 74
+tail - 29
+head - 74
 
 
 74 was poped from queue "&queue"
-head - 29
-tail - 75
+tail - 29
+head - 75
 
 
 75 was poped from queue "&queue"
-head - 29
-tail - 76
+tail - 29
+head - 76
 
 
 76 was poped from queue "&queue"
-head - 29
-tail - 77
+tail - 29
+head - 77
 
 
 77 was poped from queue "&queue"
-head - 29
-tail - 78
+tail - 29
+head - 78
 
 
 78 was poped from queue "&queue"
-head - 29
-tail - 79
+tail - 29
+head - 79
 
 
 79 was poped from queue "&queue"
-head - 29
-tail - 80
+tail - 29
+head - 80
 
 
 80 was poped from queue "&queue"
-head - 29
-tail - 81
+tail - 29
+head - 81
 
 
 81 was poped from queue "&queue"
-head - 29
-tail - 82
+tail - 29
+head - 82
 
 
 82 was poped from queue "&queue"
-head - 29
-tail - 83
+tail - 29
+head - 83
 
 
 83 was poped from queue "&queue"
-head - 29
-tail - 84
+tail - 29
+head - 84
 
 
 84 was poped from queue "&queue"
-head - 29
-tail - 85
+tail - 29
+head - 85
 
 
 85 was poped from queue "&queue"
-head - 29
-tail - 86
+tail - 29
+head - 86
 
 
 86 was poped from queue "&queue"
-head - 29
-tail - 87
+tail - 29
+head - 87
 
 
 87 was poped from queue "&queue"
-head - 29
-tail - 88
+tail - 29
+head - 88
 
 
 88 was poped from queue "&queue"
-head - 29
-tail - 89
+tail - 29
+head - 89
 
 
 89 was poped from queue "&queue"
-head - 29
-tail - 90
+tail - 29
+head - 90
 
 
 90 was poped from queue "&queue"
-head - 29
-tail - 91
+tail - 29
+head - 91
 
 
 91 was poped from queue "&queue"
-head - 29
-tail - 92
+tail - 29
+head - 92
 
 
 92 was poped from queue "&queue"
-head - 29
-tail - 93
+tail - 29
+head - 93
 
 
 93 was poped from queue "&queue"
-head - 29
-tail - 94
+tail - 29
+head - 94
 
 
 94 was poped from queue "&queue"
-head - 29
-tail - 95
+tail - 29
+head - 95
 
 
 95 was poped from queue "&queue"
-head - 29
-tail - 96
+tail - 29
+head - 96
 
 
 96 was poped from queue "&queue"
-head - 29
-tail - 97
+tail - 29
+head - 97
 
 
 97 was poped from queue "&queue"
-head - 29
-tail - 98
+tail - 29
+head - 98
 
 
 98 was poped from queue "&queue"
-head - 29
-tail - 99
+tail - 29
+head - 99
 
 
 99 was poped from queue "&queue"
-head - 29
-tail - 100
+tail - 29
+head - 100
 
 
 100 was poped from queue "&queue"
-head - 29
-tail - 101
+tail - 29
+head - 101
 
 
 101 was poped from queue "&queue"
-head - 29
-tail - 102
+tail - 29
+head - 102
 
 
 102 was poped from queue "&queue"
-head - 29
-tail - 103
+tail - 29
+head - 103
 
 
 103 was poped from queue "&queue"
-head - 29
-tail - 104
+tail - 29
+head - 104
 
 
 104 was poped from queue "&queue"
-head - 29
-tail - 105
+tail - 29
+head - 105
 
 
 105 was poped from queue "&queue"
-head - 29
-tail - 106
+tail - 29
+head - 106
 
 
 106 was poped from queue "&queue"
-head - 29
-tail - 107
+tail - 29
+head - 107
 
 
 107 was poped from queue "&queue"
-head - 29
-tail - 108
+tail - 29
+head - 108
 
 
 108 was poped from queue "&queue"
-head - 29
-tail - 109
+tail - 29
+head - 109
 
 
 109 was poped from queue "&queue"
-head - 29
-tail - 110
+tail - 29
+head - 110
 
 
 110 was poped from queue "&queue"
-head - 29
-tail - 111
+tail - 29
+head - 111
 
 
 111 was poped from queue "&queue"
-head - 29
-tail - 112
+tail - 29
+head - 112
 
 
 112 was poped from queue "&queue"
-head - 29
-tail - 113
+tail - 29
+head - 113
 
 
 113 was poped from queue "&queue"
-head - 29
-tail - 114
+tail - 29
+head - 114
 
 
 114 was poped from queue "&queue"
-head - 29
-tail - 115
+tail - 29
+head - 115
 
 
 115 was poped from queue "&queue"
-head - 29
-tail - 116
+tail - 29
+head - 116
 
 
 116 was poped from queue "&queue"
-head - 29
-tail - 117
+tail - 29
+head - 117
 
 
 117 was poped from queue "&queue"
-head - 29
-tail - 118
+tail - 29
+head - 118
 
 
 118 was poped from queue "&queue"
-head - 29
-tail - 119
+tail - 29
+head - 119
 
 
 119 was poped from queue "&queue"
-head - 29
-tail - 120
+tail - 29
+head - 120
 
 
 120 was poped from queue "&queue"
-head - 29
-tail - 121
+tail - 29
+head - 121
 
 
 121 was poped from queue "&queue"
-head - 29
-tail - 122
+tail - 29
+head - 122
 
 
 122 was poped from queue "&queue"
-head - 29
-tail - 123
+tail - 29
+head - 123
 
 
 123 was poped from queue "&queue"
-head - 29
-tail - 124
+tail - 29
+head - 124
 
 
 124 was poped from queue "&queue"
-head - 29
-tail - 125
+tail - 29
+head - 125
 
 
 125 was poped from queue "&queue"
-head - 29
-tail - 126
+tail - 29
+head - 126
 
 
 126 was poped from queue "&queue"
-head - 29
-tail - 127
-
-
-127 was poped from queue "&queue"
-head - 29
-tail - 128
-
-
-128 was poped from queue "&queue"
-head - 29
-tail - 129
-
-
-129 was poped from queue "&queue"
-head - 29
-tail - 130
-
-
-130 was poped from queue "&queue"
-head - 29
-tail - 131
-
-
-131 was poped from queue "&queue"
-head - 29
-tail - 132
-
-
-132 was poped from queue "&queue"
-head - 29
-tail - 133
-
-
-133 was poped from queue "&queue"
-head - 29
-tail - 134
-
-
-134 was poped from queue "&queue"
-head - 29
-tail - 135
-
-
-135 was poped from queue "&queue"
-head - 29
-tail - 136
-
-
-136 was poped from queue "&queue"
-head - 29
-tail - 137
-
-
-137 was poped from queue "&queue"
-head - 29
-tail - 138
-
-
-138 was poped from queue "&queue"
-head - 29
-tail - 139
-
-
-139 was poped from queue "&queue"
-head - 29
-tail - 140
-
-
-140 was poped from queue "&queue"
-head - 29
-tail - 141
-
-
-141 was poped from queue "&queue"
-head - 29
-tail - 142
-
-
-142 was poped from queue "&queue"
-head - 29
-tail - 143
-
-
-143 was poped from queue "&queue"
-head - 29
-tail - 144
-
-
-144 was poped from queue "&queue"
-head - 29
-tail - 145
-
-
-145 was poped from queue "&queue"
-head - 29
-tail - 146
-
-
-146 was poped from queue "&queue"
-head - 29
-tail - 147
-
-
-147 was poped from queue "&queue"
-head - 29
-tail - 148
-
-
-148 was poped from queue "&queue"
-head - 29
-tail - 149
-
-
-149 was poped from queue "&queue"
-head - 29
-tail - 150
-
-
-150 was poped from queue "&queue"
-head - 29
-tail - 151
-
-
-151 was poped from queue "&queue"
-head - 29
-tail - 152
-
-
-152 was poped from queue "&queue"
-head - 29
-tail - 153
-
-
-153 was poped from queue "&queue"
-head - 29
-tail - 154
-
-
-154 was poped from queue "&queue"
-head - 29
-tail - 155
-
-
-155 was poped from queue "&queue"
-head - 29
-tail - 156
-
-
-156 was poped from queue "&queue"
-head - 29
-tail - 157
-
-
-157 was poped from queue "&queue"
-head - 29
-tail - 158
-
-
-158 was poped from queue "&queue"
-head - 29
-tail - 159
-
-
-159 was poped from queue "&queue"
-head - 29
-tail - 160
-
-
-160 was poped from queue "&queue"
-head - 29
-tail - 161
-
-
-161 was poped from queue "&queue"
-head - 29
-tail - 162
-
-
-162 was poped from queue "&queue"
-head - 29
-tail - 163
-
-
-163 was poped from queue "&queue"
-head - 29
-tail - 164
-
-
-164 was poped from queue "&queue"
-head - 29
-tail - 165
-
-
-165 was poped from queue "&queue"
-head - 29
-tail - 166
-
-
-166 was poped from queue "&queue"
-head - 29
-tail - 167
-
-
-167 was poped from queue "&queue"
-head - 29
-tail - 168
-
-
-168 was poped from queue "&queue"
-head - 29
-tail - 169
-
-
-169 was poped from queue "&queue"
-head - 29
-tail - 170
-
-
-170 was poped from queue "&queue"
-head - 29
-tail - 171
-
-
-171 was poped from queue "&queue"
-head - 29
-tail - 172
-
-
-172 was poped from queue "&queue"
-head - 29
-tail - 173
-
-
-173 was poped from queue "&queue"
-head - 29
-tail - 174
-
-
-174 was poped from queue "&queue"
-head - 29
-tail - 175
-
-
-175 was poped from queue "&queue"
-head - 29
-tail - 176
-
-
-176 was poped from queue "&queue"
-head - 29
-tail - 177
-
-
-177 was poped from queue "&queue"
-head - 29
-tail - 178
-
-
-178 was poped from queue "&queue"
-head - 29
-tail - 179
-
-
-179 was poped from queue "&queue"
-head - 29
-tail - 180
-
-
-180 was poped from queue "&queue"
-head - 29
-tail - 181
-
-
-181 was poped from queue "&queue"
-head - 29
-tail - 182
-
-
-182 was poped from queue "&queue"
-head - 29
-tail - 183
-
-
-183 was poped from queue "&queue"
-head - 29
-tail - 184
-
-
-184 was poped from queue "&queue"
-head - 29
-tail - 185
-
-
-185 was poped from queue "&queue"
-head - 29
-tail - 186
-
-
-186 was poped from queue "&queue"
-head - 29
-tail - 187
-
-
-187 was poped from queue "&queue"
-head - 29
-tail - 188
-
-
-188 was poped from queue "&queue"
-head - 29
-tail - 189
-
-
-189 was poped from queue "&queue"
-head - 29
-tail - 190
-
-
-190 was poped from queue "&queue"
-head - 29
-tail - 191
-
-
-191 was poped from queue "&queue"
-head - 29
-tail - 192
-
-
-192 was poped from queue "&queue"
-head - 29
-tail - 193
-
-
-193 was poped from queue "&queue"
-head - 29
-tail - 194
-
-
-194 was poped from queue "&queue"
-head - 29
-tail - 195
-
-
-195 was poped from queue "&queue"
-head - 29
-tail - 196
-
-
-196 was poped from queue "&queue"
-head - 29
-tail - 197
-
-
-197 was poped from queue "&queue"
-head - 29
-tail - 198
-
-
-198 was poped from queue "&queue"
-head - 29
-tail - 199
-
-
-199 was poped from queue "&queue"
-head - 29
-tail - 200
-
-
-200 was poped from queue "&queue"
-head - 29
-tail - 201
-
-
-201 was poped from queue "&queue"
-head - 29
-tail - 202
-
-
-202 was poped from queue "&queue"
-head - 29
-tail - 203
-
-
-203 was poped from queue "&queue"
-head - 29
-tail - 204
-
-
-204 was poped from queue "&queue"
-head - 29
-tail - 205
-
-
-205 was poped from queue "&queue"
-head - 29
-tail - 206
-
-
-206 was poped from queue "&queue"
-head - 29
-tail - 207
-
-
-207 was poped from queue "&queue"
-head - 29
-tail - 208
-
-
-208 was poped from queue "&queue"
-head - 29
-tail - 209
-
-
-209 was poped from queue "&queue"
-head - 29
-tail - 210
-
-
-210 was poped from queue "&queue"
-head - 29
-tail - 211
-
-
-211 was poped from queue "&queue"
-head - 29
-tail - 212
-
-
-212 was poped from queue "&queue"
-head - 29
-tail - 213
-
-
-213 was poped from queue "&queue"
-head - 29
-tail - 214
-
-
-214 was poped from queue "&queue"
-head - 29
-tail - 215
-
-
-215 was poped from queue "&queue"
-head - 29
-tail - 216
-
-
-216 was poped from queue "&queue"
-head - 29
-tail - 217
-
-
-217 was poped from queue "&queue"
-head - 29
-tail - 218
-
-
-218 was poped from queue "&queue"
-head - 29
-tail - 219
-
-
-219 was poped from queue "&queue"
-head - 29
-tail - 220
-
-
-220 was poped from queue "&queue"
-head - 29
-tail - 221
-
-
-221 was poped from queue "&queue"
-head - 29
-tail - 222
-
-
-222 was poped from queue "&queue"
-head - 29
-tail - 223
-
-
-223 was poped from queue "&queue"
-head - 29
-tail - 224
-
-
-224 was poped from queue "&queue"
-head - 29
-tail - 225
-
-
-225 was poped from queue "&queue"
-head - 29
-tail - 226
-
-
-226 was poped from queue "&queue"
-head - 29
-tail - 227
-
-
-227 was poped from queue "&queue"
-head - 29
-tail - 228
-
-
-228 was poped from queue "&queue"
-head - 29
-tail - 229
-
-
-229 was poped from queue "&queue"
-head - 29
-tail - 230
-
-
-230 was poped from queue "&queue"
-head - 29
-tail - 231
-
-
-231 was poped from queue "&queue"
-head - 29
-tail - 232
-
-
-232 was poped from queue "&queue"
-head - 29
-tail - 233
-
-
-233 was poped from queue "&queue"
-head - 29
-tail - 234
-
-
-234 was poped from queue "&queue"
-head - 29
-tail - 235
-
-
-235 was poped from queue "&queue"
-head - 29
-tail - 236
-
-
-236 was poped from queue "&queue"
-head - 29
-tail - 237
-
-
-237 was poped from queue "&queue"
-head - 29
-tail - 238
-
-
-238 was poped from queue "&queue"
-head - 29
-tail - 239
-
-
-239 was poped from queue "&queue"
-head - 29
-tail - 240
+tail - 29
+head - 127
 
 
 0 was poped from queue "&queue"
-head - 29
-tail - 241
+tail - 29
+head - 0
 
 
 1 was poped from queue "&queue"
-head - 29
-tail - 242
+tail - 29
+head - 1
 
 
 2 was poped from queue "&queue"
-head - 29
-tail - 243
+tail - 29
+head - 2
 
 
 3 was poped from queue "&queue"
-head - 29
-tail - 244
+tail - 29
+head - 3
 
 
 4 was poped from queue "&queue"
-head - 29
-tail - 245
+tail - 29
+head - 4
 
 
 5 was poped from queue "&queue"
-head - 29
-tail - 246
+tail - 29
+head - 5
 
 
 6 was poped from queue "&queue"
-head - 29
-tail - 247
+tail - 29
+head - 6
 
 
 7 was poped from queue "&queue"
-head - 29
-tail - 248
+tail - 29
+head - 7
 
 
 8 was poped from queue "&queue"
-head - 29
-tail - 249
+tail - 29
+head - 8
 
 
 9 was poped from queue "&queue"
-head - 29
-tail - 250
+tail - 29
+head - 9
 
 
 10 was poped from queue "&queue"
-head - 29
-tail - 251
+tail - 29
+head - 10
 
 
 11 was poped from queue "&queue"
-head - 29
-tail - 252
+tail - 29
+head - 11
 
 
 12 was poped from queue "&queue"
-head - 29
-tail - 253
+tail - 29
+head - 12
 
 
 13 was poped from queue "&queue"
-head - 29
-tail - 254
+tail - 29
+head - 13
 
 
 14 was poped from queue "&queue"
-head - 29
-tail - 255
+tail - 29
+head - 14
 
 
 15 was poped from queue "&queue"
-head - 29
-tail - 0
+tail - 29
+head - 15
 
 
 16 was poped from queue "&queue"
-head - 29
-tail - 1
+tail - 29
+head - 16
 
 
 17 was poped from queue "&queue"
-head - 29
-tail - 2
+tail - 29
+head - 17
 
 
 18 was poped from queue "&queue"
-head - 29
-tail - 3
+tail - 29
+head - 18
 
 
 19 was poped from queue "&queue"
-head - 29
-tail - 4
+tail - 29
+head - 19
 
 
 20 was poped from queue "&queue"
-head - 29
-tail - 5
+tail - 29
+head - 20
 
 
 21 was poped from queue "&queue"
-head - 29
-tail - 6
+tail - 29
+head - 21
 
 
 22 was poped from queue "&queue"
-head - 29
-tail - 7
+tail - 29
+head - 22
 
 
 23 was poped from queue "&queue"
-head - 29
-tail - 8
+tail - 29
+head - 23
 
 
 24 was poped from queue "&queue"
-head - 29
-tail - 9
+tail - 29
+head - 24
 
 
 25 was poped from queue "&queue"
-head - 29
-tail - 10
+tail - 29
+head - 25
 
 
 26 was poped from queue "&queue"
-head - 29
-tail - 11
+tail - 29
+head - 26
 
 
 27 was poped from queue "&queue"
-head - 29
-tail - 12
+tail - 29
+head - 27
 
 
 28 was poped from queue "&queue"
-head - 29
-tail - 13
+tail - 29
+head - 28
 
 
 29 was poped from queue "&queue"
-head - 29
-tail - 14
-
-
-30 was poped from queue "&queue"
-head - 29
-tail - 15
-
-
-31 was poped from queue "&queue"
-head - 29
-tail - 16
-
-
-32 was poped from queue "&queue"
-head - 29
-tail - 17
-
-
-33 was poped from queue "&queue"
-head - 29
-tail - 18
-
-
-34 was poped from queue "&queue"
-head - 29
-tail - 19
-
-
-35 was poped from queue "&queue"
-head - 29
-tail - 20
-
-
-36 was poped from queue "&queue"
-head - 29
-tail - 21
-
-
-37 was poped from queue "&queue"
-head - 29
-tail - 22
-
-
-38 was poped from queue "&queue"
-head - 29
-tail - 23
-
-
-39 was poped from queue "&queue"
-head - 29
-tail - 24
-
-
-40 was poped from queue "&queue"
-head - 29
-tail - 25
-
-
-41 was poped from queue "&queue"
-head - 29
-tail - 26
-
-
-42 was poped from queue "&queue"
-head - 29
-tail - 27
-
-
-43 was poped from queue "&queue"
-head - 29
-tail - 28
-
-
-44 was poped from queue "&queue"
-head - 29
 tail - 29
+head - 29
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
 
 
 ERROR: queue is empty. Cannot pop element.

@@ -10,7 +10,7 @@
 #define queue_ctor(queue) _queue_ctor((queue), var_info {#queue, LOCATION})
 
 
-const int BUFF_SIZE = 256; //size of cyclic buffer
+const int BUFF_SIZE = 128; //size of cyclic buffer
 
 typedef double elem;       // type of elements inside queue
 
@@ -56,7 +56,7 @@ struct my_queue
 
 //! @brief creates data arrange and initializes head and tail
 //!
-//! @param [in] queue ptr to our queue object
+//! @param [out] queue ptr to our queue object
 //! @param [in] info  information about our queue object creation
 //!
 //! @return 1 if error, 0 if ok
@@ -66,7 +66,7 @@ int _queue_ctor(struct my_queue * queue, struct var_info info);
 
 //! @brief adds number to our queue
 //!
-//! @param [in] queue ptr to our queue object
+//! @param [out] queue ptr to our queue object
 //! @param [in] push_value push value
 //!
 //! @return 1 if error, 0 if ok
@@ -95,7 +95,7 @@ int open_logfile(const char * filename);
 
 //! @brief destructor of our queue
 //!
-//! @param [in] queue ptr to our queue object
+//! @param [out] queue ptr to our queue object
 //!
 //! @return 1 if error, 0 if ok
 
