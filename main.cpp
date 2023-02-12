@@ -17,9 +17,14 @@ int main(void)
     
     for (int x = 0; x < 30; x++)
         queue_pop(&queue, &coc);
+
+    queue_dump(&queue, LOCATION); 
     
     for (int i = 0; i < 50; i++)
         queue_push(&queue, i);
+    
+    for (int y = 0; y < 260; y++)
+        queue_pop(&queue, &coc);
 
     queue_dtor(&queue);
     fclose(logfile);

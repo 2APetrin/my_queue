@@ -37,7 +37,7 @@ struct var_info
 
 
 //! @struct my own queue
-//! @brief main struct of our queue
+//! @brief  main struct of our queue
 //! 
 //! @var head - index of first free space next to first item in queue
 //! @var tail - index of last item in queue
@@ -76,7 +76,7 @@ int queue_push(struct my_queue * queue, elem push_value);
 
 //! @brief pops number from our queue
 //!
-//! @param [in] queue ptr to our queue object
+//! @param [in]  queue ptr to our queue object
 //! @param [out] out_value ptr to variable where value pops
 //!
 //! @return 1 if error, 0 if ok
@@ -101,3 +101,14 @@ int open_logfile(const char * filename);
 
 int queue_dtor(struct my_queue * queue);
 
+
+//! @brief prints all non POISON elements in queue
+//!
+//! @param [in] queue ptr to our queue object
+//! @param [in] func name of funtion, where function was called
+//! @param [in] file name of file, where function was called
+//! @param [in] line index of line, where dump was called
+//!
+//! @return 1 if error, 0 if ok
+
+int queue_dump(struct my_queue * queue, const char * func, const char * file, size_t line);

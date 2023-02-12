@@ -10,6 +10,11 @@ int _queue_ctor(struct my_queue * queue, struct var_info info)
 
     queue->data = (elem *) calloc (BUFF_SIZE, sizeof(elem));
 
+    for (int i = 0; i < BUFF_SIZE; i++)
+    {
+        queue->data[i] = POISON;
+    }
+
     if (!queue->data) // если !указатель = 1 т.е. указатель = 0
     {
         fprintf(logfile, "ERROR: cannot calloc in queue_ctor\n\n\n");
@@ -32,7 +37,7 @@ int queue_push(struct my_queue * queue, elem push_value)
     assert(queue);
     assert(isfinite(push_value));
 
-    if (queue->tail == (unsigned char) (queue->head + 1))
+    if (queue->tail == queue->head + (unsigned char) 1)
     {
         fprintf(logfile, "ERROR: queue overflow. Element %lg was not added to queue.\n\n\n", push_value);
         return 1;
@@ -84,7 +89,7 @@ int queue_dtor(struct my_queue * queue)
     assert(queue);
     assert(queue->data);
 
-    for (int i = 0; i < 256; i++)
+    for (int i = 0; i < BUFF_SIZE; i++)
     {
         queue->data[i] = POISON;
     }
@@ -100,6 +105,29 @@ int queue_dtor(struct my_queue * queue)
 
     fprintf(logfile, "Queue \"%s\" was destructed\n\n\n", queue->queue_info.name);
     queue->queue_info.name = NULL;
+
+    return 0;
+}
+
+
+int queue_dump(struct my_queue * queue, const char * func, const char * file, size_t line)
+{
+    assert(queue);
+
+    fprintf(logfile, "    DUMP from:\nfile - %s\nfunc - %s\nline - %lu\nqueue - \"%s\"\n", file, func, line, queue->queue_info.name);
+    
+    for (int i = 0; i < BUFF_SIZE; i++)
+    {
+        if (!isnan(queue->data[i]))
+        {
+            if (!fprintf(logfile, "[%5d] - [%lg]\n", i, queue->data[i]))
+            {
+                return 1;
+            }  
+        }
+    }
+
+    fprintf(logfile, "\n\n");
 
     return 0;
 }

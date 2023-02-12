@@ -1351,6 +1351,223 @@ head - 240
 tail - 30
 
 
+    DUMP from:
+file - main.cpp
+func - int main()
+line - 21
+queue - "&queue"
+[   30] - [30]
+[   31] - [31]
+[   32] - [32]
+[   33] - [33]
+[   34] - [34]
+[   35] - [35]
+[   36] - [36]
+[   37] - [37]
+[   38] - [38]
+[   39] - [39]
+[   40] - [40]
+[   41] - [41]
+[   42] - [42]
+[   43] - [43]
+[   44] - [44]
+[   45] - [45]
+[   46] - [46]
+[   47] - [47]
+[   48] - [48]
+[   49] - [49]
+[   50] - [50]
+[   51] - [51]
+[   52] - [52]
+[   53] - [53]
+[   54] - [54]
+[   55] - [55]
+[   56] - [56]
+[   57] - [57]
+[   58] - [58]
+[   59] - [59]
+[   60] - [60]
+[   61] - [61]
+[   62] - [62]
+[   63] - [63]
+[   64] - [64]
+[   65] - [65]
+[   66] - [66]
+[   67] - [67]
+[   68] - [68]
+[   69] - [69]
+[   70] - [70]
+[   71] - [71]
+[   72] - [72]
+[   73] - [73]
+[   74] - [74]
+[   75] - [75]
+[   76] - [76]
+[   77] - [77]
+[   78] - [78]
+[   79] - [79]
+[   80] - [80]
+[   81] - [81]
+[   82] - [82]
+[   83] - [83]
+[   84] - [84]
+[   85] - [85]
+[   86] - [86]
+[   87] - [87]
+[   88] - [88]
+[   89] - [89]
+[   90] - [90]
+[   91] - [91]
+[   92] - [92]
+[   93] - [93]
+[   94] - [94]
+[   95] - [95]
+[   96] - [96]
+[   97] - [97]
+[   98] - [98]
+[   99] - [99]
+[  100] - [100]
+[  101] - [101]
+[  102] - [102]
+[  103] - [103]
+[  104] - [104]
+[  105] - [105]
+[  106] - [106]
+[  107] - [107]
+[  108] - [108]
+[  109] - [109]
+[  110] - [110]
+[  111] - [111]
+[  112] - [112]
+[  113] - [113]
+[  114] - [114]
+[  115] - [115]
+[  116] - [116]
+[  117] - [117]
+[  118] - [118]
+[  119] - [119]
+[  120] - [120]
+[  121] - [121]
+[  122] - [122]
+[  123] - [123]
+[  124] - [124]
+[  125] - [125]
+[  126] - [126]
+[  127] - [127]
+[  128] - [128]
+[  129] - [129]
+[  130] - [130]
+[  131] - [131]
+[  132] - [132]
+[  133] - [133]
+[  134] - [134]
+[  135] - [135]
+[  136] - [136]
+[  137] - [137]
+[  138] - [138]
+[  139] - [139]
+[  140] - [140]
+[  141] - [141]
+[  142] - [142]
+[  143] - [143]
+[  144] - [144]
+[  145] - [145]
+[  146] - [146]
+[  147] - [147]
+[  148] - [148]
+[  149] - [149]
+[  150] - [150]
+[  151] - [151]
+[  152] - [152]
+[  153] - [153]
+[  154] - [154]
+[  155] - [155]
+[  156] - [156]
+[  157] - [157]
+[  158] - [158]
+[  159] - [159]
+[  160] - [160]
+[  161] - [161]
+[  162] - [162]
+[  163] - [163]
+[  164] - [164]
+[  165] - [165]
+[  166] - [166]
+[  167] - [167]
+[  168] - [168]
+[  169] - [169]
+[  170] - [170]
+[  171] - [171]
+[  172] - [172]
+[  173] - [173]
+[  174] - [174]
+[  175] - [175]
+[  176] - [176]
+[  177] - [177]
+[  178] - [178]
+[  179] - [179]
+[  180] - [180]
+[  181] - [181]
+[  182] - [182]
+[  183] - [183]
+[  184] - [184]
+[  185] - [185]
+[  186] - [186]
+[  187] - [187]
+[  188] - [188]
+[  189] - [189]
+[  190] - [190]
+[  191] - [191]
+[  192] - [192]
+[  193] - [193]
+[  194] - [194]
+[  195] - [195]
+[  196] - [196]
+[  197] - [197]
+[  198] - [198]
+[  199] - [199]
+[  200] - [200]
+[  201] - [201]
+[  202] - [202]
+[  203] - [203]
+[  204] - [204]
+[  205] - [205]
+[  206] - [206]
+[  207] - [207]
+[  208] - [208]
+[  209] - [209]
+[  210] - [210]
+[  211] - [211]
+[  212] - [212]
+[  213] - [213]
+[  214] - [214]
+[  215] - [215]
+[  216] - [216]
+[  217] - [217]
+[  218] - [218]
+[  219] - [219]
+[  220] - [220]
+[  221] - [221]
+[  222] - [222]
+[  223] - [223]
+[  224] - [224]
+[  225] - [225]
+[  226] - [226]
+[  227] - [227]
+[  228] - [228]
+[  229] - [229]
+[  230] - [230]
+[  231] - [231]
+[  232] - [232]
+[  233] - [233]
+[  234] - [234]
+[  235] - [235]
+[  236] - [236]
+[  237] - [237]
+[  238] - [238]
+[  239] - [239]
+
+
 0 was pushed to queue "&queue"
 head - 241
 tail - 30
@@ -1589,6 +1806,1296 @@ ERROR: queue overflow. Element 48 was not added to queue.
 
 
 ERROR: queue overflow. Element 49 was not added to queue.
+
+
+30 was poped from queue "&queue"
+head - 29
+tail - 31
+
+
+31 was poped from queue "&queue"
+head - 29
+tail - 32
+
+
+32 was poped from queue "&queue"
+head - 29
+tail - 33
+
+
+33 was poped from queue "&queue"
+head - 29
+tail - 34
+
+
+34 was poped from queue "&queue"
+head - 29
+tail - 35
+
+
+35 was poped from queue "&queue"
+head - 29
+tail - 36
+
+
+36 was poped from queue "&queue"
+head - 29
+tail - 37
+
+
+37 was poped from queue "&queue"
+head - 29
+tail - 38
+
+
+38 was poped from queue "&queue"
+head - 29
+tail - 39
+
+
+39 was poped from queue "&queue"
+head - 29
+tail - 40
+
+
+40 was poped from queue "&queue"
+head - 29
+tail - 41
+
+
+41 was poped from queue "&queue"
+head - 29
+tail - 42
+
+
+42 was poped from queue "&queue"
+head - 29
+tail - 43
+
+
+43 was poped from queue "&queue"
+head - 29
+tail - 44
+
+
+44 was poped from queue "&queue"
+head - 29
+tail - 45
+
+
+45 was poped from queue "&queue"
+head - 29
+tail - 46
+
+
+46 was poped from queue "&queue"
+head - 29
+tail - 47
+
+
+47 was poped from queue "&queue"
+head - 29
+tail - 48
+
+
+48 was poped from queue "&queue"
+head - 29
+tail - 49
+
+
+49 was poped from queue "&queue"
+head - 29
+tail - 50
+
+
+50 was poped from queue "&queue"
+head - 29
+tail - 51
+
+
+51 was poped from queue "&queue"
+head - 29
+tail - 52
+
+
+52 was poped from queue "&queue"
+head - 29
+tail - 53
+
+
+53 was poped from queue "&queue"
+head - 29
+tail - 54
+
+
+54 was poped from queue "&queue"
+head - 29
+tail - 55
+
+
+55 was poped from queue "&queue"
+head - 29
+tail - 56
+
+
+56 was poped from queue "&queue"
+head - 29
+tail - 57
+
+
+57 was poped from queue "&queue"
+head - 29
+tail - 58
+
+
+58 was poped from queue "&queue"
+head - 29
+tail - 59
+
+
+59 was poped from queue "&queue"
+head - 29
+tail - 60
+
+
+60 was poped from queue "&queue"
+head - 29
+tail - 61
+
+
+61 was poped from queue "&queue"
+head - 29
+tail - 62
+
+
+62 was poped from queue "&queue"
+head - 29
+tail - 63
+
+
+63 was poped from queue "&queue"
+head - 29
+tail - 64
+
+
+64 was poped from queue "&queue"
+head - 29
+tail - 65
+
+
+65 was poped from queue "&queue"
+head - 29
+tail - 66
+
+
+66 was poped from queue "&queue"
+head - 29
+tail - 67
+
+
+67 was poped from queue "&queue"
+head - 29
+tail - 68
+
+
+68 was poped from queue "&queue"
+head - 29
+tail - 69
+
+
+69 was poped from queue "&queue"
+head - 29
+tail - 70
+
+
+70 was poped from queue "&queue"
+head - 29
+tail - 71
+
+
+71 was poped from queue "&queue"
+head - 29
+tail - 72
+
+
+72 was poped from queue "&queue"
+head - 29
+tail - 73
+
+
+73 was poped from queue "&queue"
+head - 29
+tail - 74
+
+
+74 was poped from queue "&queue"
+head - 29
+tail - 75
+
+
+75 was poped from queue "&queue"
+head - 29
+tail - 76
+
+
+76 was poped from queue "&queue"
+head - 29
+tail - 77
+
+
+77 was poped from queue "&queue"
+head - 29
+tail - 78
+
+
+78 was poped from queue "&queue"
+head - 29
+tail - 79
+
+
+79 was poped from queue "&queue"
+head - 29
+tail - 80
+
+
+80 was poped from queue "&queue"
+head - 29
+tail - 81
+
+
+81 was poped from queue "&queue"
+head - 29
+tail - 82
+
+
+82 was poped from queue "&queue"
+head - 29
+tail - 83
+
+
+83 was poped from queue "&queue"
+head - 29
+tail - 84
+
+
+84 was poped from queue "&queue"
+head - 29
+tail - 85
+
+
+85 was poped from queue "&queue"
+head - 29
+tail - 86
+
+
+86 was poped from queue "&queue"
+head - 29
+tail - 87
+
+
+87 was poped from queue "&queue"
+head - 29
+tail - 88
+
+
+88 was poped from queue "&queue"
+head - 29
+tail - 89
+
+
+89 was poped from queue "&queue"
+head - 29
+tail - 90
+
+
+90 was poped from queue "&queue"
+head - 29
+tail - 91
+
+
+91 was poped from queue "&queue"
+head - 29
+tail - 92
+
+
+92 was poped from queue "&queue"
+head - 29
+tail - 93
+
+
+93 was poped from queue "&queue"
+head - 29
+tail - 94
+
+
+94 was poped from queue "&queue"
+head - 29
+tail - 95
+
+
+95 was poped from queue "&queue"
+head - 29
+tail - 96
+
+
+96 was poped from queue "&queue"
+head - 29
+tail - 97
+
+
+97 was poped from queue "&queue"
+head - 29
+tail - 98
+
+
+98 was poped from queue "&queue"
+head - 29
+tail - 99
+
+
+99 was poped from queue "&queue"
+head - 29
+tail - 100
+
+
+100 was poped from queue "&queue"
+head - 29
+tail - 101
+
+
+101 was poped from queue "&queue"
+head - 29
+tail - 102
+
+
+102 was poped from queue "&queue"
+head - 29
+tail - 103
+
+
+103 was poped from queue "&queue"
+head - 29
+tail - 104
+
+
+104 was poped from queue "&queue"
+head - 29
+tail - 105
+
+
+105 was poped from queue "&queue"
+head - 29
+tail - 106
+
+
+106 was poped from queue "&queue"
+head - 29
+tail - 107
+
+
+107 was poped from queue "&queue"
+head - 29
+tail - 108
+
+
+108 was poped from queue "&queue"
+head - 29
+tail - 109
+
+
+109 was poped from queue "&queue"
+head - 29
+tail - 110
+
+
+110 was poped from queue "&queue"
+head - 29
+tail - 111
+
+
+111 was poped from queue "&queue"
+head - 29
+tail - 112
+
+
+112 was poped from queue "&queue"
+head - 29
+tail - 113
+
+
+113 was poped from queue "&queue"
+head - 29
+tail - 114
+
+
+114 was poped from queue "&queue"
+head - 29
+tail - 115
+
+
+115 was poped from queue "&queue"
+head - 29
+tail - 116
+
+
+116 was poped from queue "&queue"
+head - 29
+tail - 117
+
+
+117 was poped from queue "&queue"
+head - 29
+tail - 118
+
+
+118 was poped from queue "&queue"
+head - 29
+tail - 119
+
+
+119 was poped from queue "&queue"
+head - 29
+tail - 120
+
+
+120 was poped from queue "&queue"
+head - 29
+tail - 121
+
+
+121 was poped from queue "&queue"
+head - 29
+tail - 122
+
+
+122 was poped from queue "&queue"
+head - 29
+tail - 123
+
+
+123 was poped from queue "&queue"
+head - 29
+tail - 124
+
+
+124 was poped from queue "&queue"
+head - 29
+tail - 125
+
+
+125 was poped from queue "&queue"
+head - 29
+tail - 126
+
+
+126 was poped from queue "&queue"
+head - 29
+tail - 127
+
+
+127 was poped from queue "&queue"
+head - 29
+tail - 128
+
+
+128 was poped from queue "&queue"
+head - 29
+tail - 129
+
+
+129 was poped from queue "&queue"
+head - 29
+tail - 130
+
+
+130 was poped from queue "&queue"
+head - 29
+tail - 131
+
+
+131 was poped from queue "&queue"
+head - 29
+tail - 132
+
+
+132 was poped from queue "&queue"
+head - 29
+tail - 133
+
+
+133 was poped from queue "&queue"
+head - 29
+tail - 134
+
+
+134 was poped from queue "&queue"
+head - 29
+tail - 135
+
+
+135 was poped from queue "&queue"
+head - 29
+tail - 136
+
+
+136 was poped from queue "&queue"
+head - 29
+tail - 137
+
+
+137 was poped from queue "&queue"
+head - 29
+tail - 138
+
+
+138 was poped from queue "&queue"
+head - 29
+tail - 139
+
+
+139 was poped from queue "&queue"
+head - 29
+tail - 140
+
+
+140 was poped from queue "&queue"
+head - 29
+tail - 141
+
+
+141 was poped from queue "&queue"
+head - 29
+tail - 142
+
+
+142 was poped from queue "&queue"
+head - 29
+tail - 143
+
+
+143 was poped from queue "&queue"
+head - 29
+tail - 144
+
+
+144 was poped from queue "&queue"
+head - 29
+tail - 145
+
+
+145 was poped from queue "&queue"
+head - 29
+tail - 146
+
+
+146 was poped from queue "&queue"
+head - 29
+tail - 147
+
+
+147 was poped from queue "&queue"
+head - 29
+tail - 148
+
+
+148 was poped from queue "&queue"
+head - 29
+tail - 149
+
+
+149 was poped from queue "&queue"
+head - 29
+tail - 150
+
+
+150 was poped from queue "&queue"
+head - 29
+tail - 151
+
+
+151 was poped from queue "&queue"
+head - 29
+tail - 152
+
+
+152 was poped from queue "&queue"
+head - 29
+tail - 153
+
+
+153 was poped from queue "&queue"
+head - 29
+tail - 154
+
+
+154 was poped from queue "&queue"
+head - 29
+tail - 155
+
+
+155 was poped from queue "&queue"
+head - 29
+tail - 156
+
+
+156 was poped from queue "&queue"
+head - 29
+tail - 157
+
+
+157 was poped from queue "&queue"
+head - 29
+tail - 158
+
+
+158 was poped from queue "&queue"
+head - 29
+tail - 159
+
+
+159 was poped from queue "&queue"
+head - 29
+tail - 160
+
+
+160 was poped from queue "&queue"
+head - 29
+tail - 161
+
+
+161 was poped from queue "&queue"
+head - 29
+tail - 162
+
+
+162 was poped from queue "&queue"
+head - 29
+tail - 163
+
+
+163 was poped from queue "&queue"
+head - 29
+tail - 164
+
+
+164 was poped from queue "&queue"
+head - 29
+tail - 165
+
+
+165 was poped from queue "&queue"
+head - 29
+tail - 166
+
+
+166 was poped from queue "&queue"
+head - 29
+tail - 167
+
+
+167 was poped from queue "&queue"
+head - 29
+tail - 168
+
+
+168 was poped from queue "&queue"
+head - 29
+tail - 169
+
+
+169 was poped from queue "&queue"
+head - 29
+tail - 170
+
+
+170 was poped from queue "&queue"
+head - 29
+tail - 171
+
+
+171 was poped from queue "&queue"
+head - 29
+tail - 172
+
+
+172 was poped from queue "&queue"
+head - 29
+tail - 173
+
+
+173 was poped from queue "&queue"
+head - 29
+tail - 174
+
+
+174 was poped from queue "&queue"
+head - 29
+tail - 175
+
+
+175 was poped from queue "&queue"
+head - 29
+tail - 176
+
+
+176 was poped from queue "&queue"
+head - 29
+tail - 177
+
+
+177 was poped from queue "&queue"
+head - 29
+tail - 178
+
+
+178 was poped from queue "&queue"
+head - 29
+tail - 179
+
+
+179 was poped from queue "&queue"
+head - 29
+tail - 180
+
+
+180 was poped from queue "&queue"
+head - 29
+tail - 181
+
+
+181 was poped from queue "&queue"
+head - 29
+tail - 182
+
+
+182 was poped from queue "&queue"
+head - 29
+tail - 183
+
+
+183 was poped from queue "&queue"
+head - 29
+tail - 184
+
+
+184 was poped from queue "&queue"
+head - 29
+tail - 185
+
+
+185 was poped from queue "&queue"
+head - 29
+tail - 186
+
+
+186 was poped from queue "&queue"
+head - 29
+tail - 187
+
+
+187 was poped from queue "&queue"
+head - 29
+tail - 188
+
+
+188 was poped from queue "&queue"
+head - 29
+tail - 189
+
+
+189 was poped from queue "&queue"
+head - 29
+tail - 190
+
+
+190 was poped from queue "&queue"
+head - 29
+tail - 191
+
+
+191 was poped from queue "&queue"
+head - 29
+tail - 192
+
+
+192 was poped from queue "&queue"
+head - 29
+tail - 193
+
+
+193 was poped from queue "&queue"
+head - 29
+tail - 194
+
+
+194 was poped from queue "&queue"
+head - 29
+tail - 195
+
+
+195 was poped from queue "&queue"
+head - 29
+tail - 196
+
+
+196 was poped from queue "&queue"
+head - 29
+tail - 197
+
+
+197 was poped from queue "&queue"
+head - 29
+tail - 198
+
+
+198 was poped from queue "&queue"
+head - 29
+tail - 199
+
+
+199 was poped from queue "&queue"
+head - 29
+tail - 200
+
+
+200 was poped from queue "&queue"
+head - 29
+tail - 201
+
+
+201 was poped from queue "&queue"
+head - 29
+tail - 202
+
+
+202 was poped from queue "&queue"
+head - 29
+tail - 203
+
+
+203 was poped from queue "&queue"
+head - 29
+tail - 204
+
+
+204 was poped from queue "&queue"
+head - 29
+tail - 205
+
+
+205 was poped from queue "&queue"
+head - 29
+tail - 206
+
+
+206 was poped from queue "&queue"
+head - 29
+tail - 207
+
+
+207 was poped from queue "&queue"
+head - 29
+tail - 208
+
+
+208 was poped from queue "&queue"
+head - 29
+tail - 209
+
+
+209 was poped from queue "&queue"
+head - 29
+tail - 210
+
+
+210 was poped from queue "&queue"
+head - 29
+tail - 211
+
+
+211 was poped from queue "&queue"
+head - 29
+tail - 212
+
+
+212 was poped from queue "&queue"
+head - 29
+tail - 213
+
+
+213 was poped from queue "&queue"
+head - 29
+tail - 214
+
+
+214 was poped from queue "&queue"
+head - 29
+tail - 215
+
+
+215 was poped from queue "&queue"
+head - 29
+tail - 216
+
+
+216 was poped from queue "&queue"
+head - 29
+tail - 217
+
+
+217 was poped from queue "&queue"
+head - 29
+tail - 218
+
+
+218 was poped from queue "&queue"
+head - 29
+tail - 219
+
+
+219 was poped from queue "&queue"
+head - 29
+tail - 220
+
+
+220 was poped from queue "&queue"
+head - 29
+tail - 221
+
+
+221 was poped from queue "&queue"
+head - 29
+tail - 222
+
+
+222 was poped from queue "&queue"
+head - 29
+tail - 223
+
+
+223 was poped from queue "&queue"
+head - 29
+tail - 224
+
+
+224 was poped from queue "&queue"
+head - 29
+tail - 225
+
+
+225 was poped from queue "&queue"
+head - 29
+tail - 226
+
+
+226 was poped from queue "&queue"
+head - 29
+tail - 227
+
+
+227 was poped from queue "&queue"
+head - 29
+tail - 228
+
+
+228 was poped from queue "&queue"
+head - 29
+tail - 229
+
+
+229 was poped from queue "&queue"
+head - 29
+tail - 230
+
+
+230 was poped from queue "&queue"
+head - 29
+tail - 231
+
+
+231 was poped from queue "&queue"
+head - 29
+tail - 232
+
+
+232 was poped from queue "&queue"
+head - 29
+tail - 233
+
+
+233 was poped from queue "&queue"
+head - 29
+tail - 234
+
+
+234 was poped from queue "&queue"
+head - 29
+tail - 235
+
+
+235 was poped from queue "&queue"
+head - 29
+tail - 236
+
+
+236 was poped from queue "&queue"
+head - 29
+tail - 237
+
+
+237 was poped from queue "&queue"
+head - 29
+tail - 238
+
+
+238 was poped from queue "&queue"
+head - 29
+tail - 239
+
+
+239 was poped from queue "&queue"
+head - 29
+tail - 240
+
+
+0 was poped from queue "&queue"
+head - 29
+tail - 241
+
+
+1 was poped from queue "&queue"
+head - 29
+tail - 242
+
+
+2 was poped from queue "&queue"
+head - 29
+tail - 243
+
+
+3 was poped from queue "&queue"
+head - 29
+tail - 244
+
+
+4 was poped from queue "&queue"
+head - 29
+tail - 245
+
+
+5 was poped from queue "&queue"
+head - 29
+tail - 246
+
+
+6 was poped from queue "&queue"
+head - 29
+tail - 247
+
+
+7 was poped from queue "&queue"
+head - 29
+tail - 248
+
+
+8 was poped from queue "&queue"
+head - 29
+tail - 249
+
+
+9 was poped from queue "&queue"
+head - 29
+tail - 250
+
+
+10 was poped from queue "&queue"
+head - 29
+tail - 251
+
+
+11 was poped from queue "&queue"
+head - 29
+tail - 252
+
+
+12 was poped from queue "&queue"
+head - 29
+tail - 253
+
+
+13 was poped from queue "&queue"
+head - 29
+tail - 254
+
+
+14 was poped from queue "&queue"
+head - 29
+tail - 255
+
+
+15 was poped from queue "&queue"
+head - 29
+tail - 0
+
+
+16 was poped from queue "&queue"
+head - 29
+tail - 1
+
+
+17 was poped from queue "&queue"
+head - 29
+tail - 2
+
+
+18 was poped from queue "&queue"
+head - 29
+tail - 3
+
+
+19 was poped from queue "&queue"
+head - 29
+tail - 4
+
+
+20 was poped from queue "&queue"
+head - 29
+tail - 5
+
+
+21 was poped from queue "&queue"
+head - 29
+tail - 6
+
+
+22 was poped from queue "&queue"
+head - 29
+tail - 7
+
+
+23 was poped from queue "&queue"
+head - 29
+tail - 8
+
+
+24 was poped from queue "&queue"
+head - 29
+tail - 9
+
+
+25 was poped from queue "&queue"
+head - 29
+tail - 10
+
+
+26 was poped from queue "&queue"
+head - 29
+tail - 11
+
+
+27 was poped from queue "&queue"
+head - 29
+tail - 12
+
+
+28 was poped from queue "&queue"
+head - 29
+tail - 13
+
+
+29 was poped from queue "&queue"
+head - 29
+tail - 14
+
+
+30 was poped from queue "&queue"
+head - 29
+tail - 15
+
+
+31 was poped from queue "&queue"
+head - 29
+tail - 16
+
+
+32 was poped from queue "&queue"
+head - 29
+tail - 17
+
+
+33 was poped from queue "&queue"
+head - 29
+tail - 18
+
+
+34 was poped from queue "&queue"
+head - 29
+tail - 19
+
+
+35 was poped from queue "&queue"
+head - 29
+tail - 20
+
+
+36 was poped from queue "&queue"
+head - 29
+tail - 21
+
+
+37 was poped from queue "&queue"
+head - 29
+tail - 22
+
+
+38 was poped from queue "&queue"
+head - 29
+tail - 23
+
+
+39 was poped from queue "&queue"
+head - 29
+tail - 24
+
+
+40 was poped from queue "&queue"
+head - 29
+tail - 25
+
+
+41 was poped from queue "&queue"
+head - 29
+tail - 26
+
+
+42 was poped from queue "&queue"
+head - 29
+tail - 27
+
+
+43 was poped from queue "&queue"
+head - 29
+tail - 28
+
+
+44 was poped from queue "&queue"
+head - 29
+tail - 29
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
+
+
+ERROR: queue is empty. Cannot pop element.
 
 
 Queue "&queue" was destructed
