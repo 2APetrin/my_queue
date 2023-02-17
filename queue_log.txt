@@ -636,343 +636,343 @@ tail - 127
 head - 0
 
 
-ERROR: queue overflow. Element 127 was not added to queue.
+WARNING: queue overflow. Element 127 was not added to queue.
 
 
-ERROR: queue overflow. Element 128 was not added to queue.
+WARNING: queue overflow. Element 128 was not added to queue.
 
 
-ERROR: queue overflow. Element 129 was not added to queue.
+WARNING: queue overflow. Element 129 was not added to queue.
 
 
-ERROR: queue overflow. Element 130 was not added to queue.
+WARNING: queue overflow. Element 130 was not added to queue.
 
 
-ERROR: queue overflow. Element 131 was not added to queue.
+WARNING: queue overflow. Element 131 was not added to queue.
 
 
-ERROR: queue overflow. Element 132 was not added to queue.
+WARNING: queue overflow. Element 132 was not added to queue.
 
 
-ERROR: queue overflow. Element 133 was not added to queue.
+WARNING: queue overflow. Element 133 was not added to queue.
 
 
-ERROR: queue overflow. Element 134 was not added to queue.
+WARNING: queue overflow. Element 134 was not added to queue.
 
 
-ERROR: queue overflow. Element 135 was not added to queue.
+WARNING: queue overflow. Element 135 was not added to queue.
 
 
-ERROR: queue overflow. Element 136 was not added to queue.
+WARNING: queue overflow. Element 136 was not added to queue.
 
 
-ERROR: queue overflow. Element 137 was not added to queue.
+WARNING: queue overflow. Element 137 was not added to queue.
 
 
-ERROR: queue overflow. Element 138 was not added to queue.
+WARNING: queue overflow. Element 138 was not added to queue.
 
 
-ERROR: queue overflow. Element 139 was not added to queue.
+WARNING: queue overflow. Element 139 was not added to queue.
 
 
-ERROR: queue overflow. Element 140 was not added to queue.
+WARNING: queue overflow. Element 140 was not added to queue.
 
 
-ERROR: queue overflow. Element 141 was not added to queue.
+WARNING: queue overflow. Element 141 was not added to queue.
 
 
-ERROR: queue overflow. Element 142 was not added to queue.
+WARNING: queue overflow. Element 142 was not added to queue.
 
 
-ERROR: queue overflow. Element 143 was not added to queue.
+WARNING: queue overflow. Element 143 was not added to queue.
 
 
-ERROR: queue overflow. Element 144 was not added to queue.
+WARNING: queue overflow. Element 144 was not added to queue.
 
 
-ERROR: queue overflow. Element 145 was not added to queue.
+WARNING: queue overflow. Element 145 was not added to queue.
 
 
-ERROR: queue overflow. Element 146 was not added to queue.
+WARNING: queue overflow. Element 146 was not added to queue.
 
 
-ERROR: queue overflow. Element 147 was not added to queue.
+WARNING: queue overflow. Element 147 was not added to queue.
 
 
-ERROR: queue overflow. Element 148 was not added to queue.
+WARNING: queue overflow. Element 148 was not added to queue.
 
 
-ERROR: queue overflow. Element 149 was not added to queue.
+WARNING: queue overflow. Element 149 was not added to queue.
 
 
-ERROR: queue overflow. Element 150 was not added to queue.
+WARNING: queue overflow. Element 150 was not added to queue.
 
 
-ERROR: queue overflow. Element 151 was not added to queue.
+WARNING: queue overflow. Element 151 was not added to queue.
 
 
-ERROR: queue overflow. Element 152 was not added to queue.
+WARNING: queue overflow. Element 152 was not added to queue.
 
 
-ERROR: queue overflow. Element 153 was not added to queue.
+WARNING: queue overflow. Element 153 was not added to queue.
 
 
-ERROR: queue overflow. Element 154 was not added to queue.
+WARNING: queue overflow. Element 154 was not added to queue.
 
 
-ERROR: queue overflow. Element 155 was not added to queue.
+WARNING: queue overflow. Element 155 was not added to queue.
 
 
-ERROR: queue overflow. Element 156 was not added to queue.
+WARNING: queue overflow. Element 156 was not added to queue.
 
 
-ERROR: queue overflow. Element 157 was not added to queue.
+WARNING: queue overflow. Element 157 was not added to queue.
 
 
-ERROR: queue overflow. Element 158 was not added to queue.
+WARNING: queue overflow. Element 158 was not added to queue.
 
 
-ERROR: queue overflow. Element 159 was not added to queue.
+WARNING: queue overflow. Element 159 was not added to queue.
 
 
-ERROR: queue overflow. Element 160 was not added to queue.
+WARNING: queue overflow. Element 160 was not added to queue.
 
 
-ERROR: queue overflow. Element 161 was not added to queue.
+WARNING: queue overflow. Element 161 was not added to queue.
 
 
-ERROR: queue overflow. Element 162 was not added to queue.
+WARNING: queue overflow. Element 162 was not added to queue.
 
 
-ERROR: queue overflow. Element 163 was not added to queue.
+WARNING: queue overflow. Element 163 was not added to queue.
 
 
-ERROR: queue overflow. Element 164 was not added to queue.
+WARNING: queue overflow. Element 164 was not added to queue.
 
 
-ERROR: queue overflow. Element 165 was not added to queue.
+WARNING: queue overflow. Element 165 was not added to queue.
 
 
-ERROR: queue overflow. Element 166 was not added to queue.
+WARNING: queue overflow. Element 166 was not added to queue.
 
 
-ERROR: queue overflow. Element 167 was not added to queue.
+WARNING: queue overflow. Element 167 was not added to queue.
 
 
-ERROR: queue overflow. Element 168 was not added to queue.
+WARNING: queue overflow. Element 168 was not added to queue.
 
 
-ERROR: queue overflow. Element 169 was not added to queue.
+WARNING: queue overflow. Element 169 was not added to queue.
 
 
-ERROR: queue overflow. Element 170 was not added to queue.
+WARNING: queue overflow. Element 170 was not added to queue.
 
 
-ERROR: queue overflow. Element 171 was not added to queue.
+WARNING: queue overflow. Element 171 was not added to queue.
 
 
-ERROR: queue overflow. Element 172 was not added to queue.
+WARNING: queue overflow. Element 172 was not added to queue.
 
 
-ERROR: queue overflow. Element 173 was not added to queue.
+WARNING: queue overflow. Element 173 was not added to queue.
 
 
-ERROR: queue overflow. Element 174 was not added to queue.
+WARNING: queue overflow. Element 174 was not added to queue.
 
 
-ERROR: queue overflow. Element 175 was not added to queue.
+WARNING: queue overflow. Element 175 was not added to queue.
 
 
-ERROR: queue overflow. Element 176 was not added to queue.
+WARNING: queue overflow. Element 176 was not added to queue.
 
 
-ERROR: queue overflow. Element 177 was not added to queue.
+WARNING: queue overflow. Element 177 was not added to queue.
 
 
-ERROR: queue overflow. Element 178 was not added to queue.
+WARNING: queue overflow. Element 178 was not added to queue.
 
 
-ERROR: queue overflow. Element 179 was not added to queue.
+WARNING: queue overflow. Element 179 was not added to queue.
 
 
-ERROR: queue overflow. Element 180 was not added to queue.
+WARNING: queue overflow. Element 180 was not added to queue.
 
 
-ERROR: queue overflow. Element 181 was not added to queue.
+WARNING: queue overflow. Element 181 was not added to queue.
 
 
-ERROR: queue overflow. Element 182 was not added to queue.
+WARNING: queue overflow. Element 182 was not added to queue.
 
 
-ERROR: queue overflow. Element 183 was not added to queue.
+WARNING: queue overflow. Element 183 was not added to queue.
 
 
-ERROR: queue overflow. Element 184 was not added to queue.
+WARNING: queue overflow. Element 184 was not added to queue.
 
 
-ERROR: queue overflow. Element 185 was not added to queue.
+WARNING: queue overflow. Element 185 was not added to queue.
 
 
-ERROR: queue overflow. Element 186 was not added to queue.
+WARNING: queue overflow. Element 186 was not added to queue.
 
 
-ERROR: queue overflow. Element 187 was not added to queue.
+WARNING: queue overflow. Element 187 was not added to queue.
 
 
-ERROR: queue overflow. Element 188 was not added to queue.
+WARNING: queue overflow. Element 188 was not added to queue.
 
 
-ERROR: queue overflow. Element 189 was not added to queue.
+WARNING: queue overflow. Element 189 was not added to queue.
 
 
-ERROR: queue overflow. Element 190 was not added to queue.
+WARNING: queue overflow. Element 190 was not added to queue.
 
 
-ERROR: queue overflow. Element 191 was not added to queue.
+WARNING: queue overflow. Element 191 was not added to queue.
 
 
-ERROR: queue overflow. Element 192 was not added to queue.
+WARNING: queue overflow. Element 192 was not added to queue.
 
 
-ERROR: queue overflow. Element 193 was not added to queue.
+WARNING: queue overflow. Element 193 was not added to queue.
 
 
-ERROR: queue overflow. Element 194 was not added to queue.
+WARNING: queue overflow. Element 194 was not added to queue.
 
 
-ERROR: queue overflow. Element 195 was not added to queue.
+WARNING: queue overflow. Element 195 was not added to queue.
 
 
-ERROR: queue overflow. Element 196 was not added to queue.
+WARNING: queue overflow. Element 196 was not added to queue.
 
 
-ERROR: queue overflow. Element 197 was not added to queue.
+WARNING: queue overflow. Element 197 was not added to queue.
 
 
-ERROR: queue overflow. Element 198 was not added to queue.
+WARNING: queue overflow. Element 198 was not added to queue.
 
 
-ERROR: queue overflow. Element 199 was not added to queue.
+WARNING: queue overflow. Element 199 was not added to queue.
 
 
-ERROR: queue overflow. Element 200 was not added to queue.
+WARNING: queue overflow. Element 200 was not added to queue.
 
 
-ERROR: queue overflow. Element 201 was not added to queue.
+WARNING: queue overflow. Element 201 was not added to queue.
 
 
-ERROR: queue overflow. Element 202 was not added to queue.
+WARNING: queue overflow. Element 202 was not added to queue.
 
 
-ERROR: queue overflow. Element 203 was not added to queue.
+WARNING: queue overflow. Element 203 was not added to queue.
 
 
-ERROR: queue overflow. Element 204 was not added to queue.
+WARNING: queue overflow. Element 204 was not added to queue.
 
 
-ERROR: queue overflow. Element 205 was not added to queue.
+WARNING: queue overflow. Element 205 was not added to queue.
 
 
-ERROR: queue overflow. Element 206 was not added to queue.
+WARNING: queue overflow. Element 206 was not added to queue.
 
 
-ERROR: queue overflow. Element 207 was not added to queue.
+WARNING: queue overflow. Element 207 was not added to queue.
 
 
-ERROR: queue overflow. Element 208 was not added to queue.
+WARNING: queue overflow. Element 208 was not added to queue.
 
 
-ERROR: queue overflow. Element 209 was not added to queue.
+WARNING: queue overflow. Element 209 was not added to queue.
 
 
-ERROR: queue overflow. Element 210 was not added to queue.
+WARNING: queue overflow. Element 210 was not added to queue.
 
 
-ERROR: queue overflow. Element 211 was not added to queue.
+WARNING: queue overflow. Element 211 was not added to queue.
 
 
-ERROR: queue overflow. Element 212 was not added to queue.
+WARNING: queue overflow. Element 212 was not added to queue.
 
 
-ERROR: queue overflow. Element 213 was not added to queue.
+WARNING: queue overflow. Element 213 was not added to queue.
 
 
-ERROR: queue overflow. Element 214 was not added to queue.
+WARNING: queue overflow. Element 214 was not added to queue.
 
 
-ERROR: queue overflow. Element 215 was not added to queue.
+WARNING: queue overflow. Element 215 was not added to queue.
 
 
-ERROR: queue overflow. Element 216 was not added to queue.
+WARNING: queue overflow. Element 216 was not added to queue.
 
 
-ERROR: queue overflow. Element 217 was not added to queue.
+WARNING: queue overflow. Element 217 was not added to queue.
 
 
-ERROR: queue overflow. Element 218 was not added to queue.
+WARNING: queue overflow. Element 218 was not added to queue.
 
 
-ERROR: queue overflow. Element 219 was not added to queue.
+WARNING: queue overflow. Element 219 was not added to queue.
 
 
-ERROR: queue overflow. Element 220 was not added to queue.
+WARNING: queue overflow. Element 220 was not added to queue.
 
 
-ERROR: queue overflow. Element 221 was not added to queue.
+WARNING: queue overflow. Element 221 was not added to queue.
 
 
-ERROR: queue overflow. Element 222 was not added to queue.
+WARNING: queue overflow. Element 222 was not added to queue.
 
 
-ERROR: queue overflow. Element 223 was not added to queue.
+WARNING: queue overflow. Element 223 was not added to queue.
 
 
-ERROR: queue overflow. Element 224 was not added to queue.
+WARNING: queue overflow. Element 224 was not added to queue.
 
 
-ERROR: queue overflow. Element 225 was not added to queue.
+WARNING: queue overflow. Element 225 was not added to queue.
 
 
-ERROR: queue overflow. Element 226 was not added to queue.
+WARNING: queue overflow. Element 226 was not added to queue.
 
 
-ERROR: queue overflow. Element 227 was not added to queue.
+WARNING: queue overflow. Element 227 was not added to queue.
 
 
-ERROR: queue overflow. Element 228 was not added to queue.
+WARNING: queue overflow. Element 228 was not added to queue.
 
 
-ERROR: queue overflow. Element 229 was not added to queue.
+WARNING: queue overflow. Element 229 was not added to queue.
 
 
-ERROR: queue overflow. Element 230 was not added to queue.
+WARNING: queue overflow. Element 230 was not added to queue.
 
 
-ERROR: queue overflow. Element 231 was not added to queue.
+WARNING: queue overflow. Element 231 was not added to queue.
 
 
-ERROR: queue overflow. Element 232 was not added to queue.
+WARNING: queue overflow. Element 232 was not added to queue.
 
 
-ERROR: queue overflow. Element 233 was not added to queue.
+WARNING: queue overflow. Element 233 was not added to queue.
 
 
-ERROR: queue overflow. Element 234 was not added to queue.
+WARNING: queue overflow. Element 234 was not added to queue.
 
 
-ERROR: queue overflow. Element 235 was not added to queue.
+WARNING: queue overflow. Element 235 was not added to queue.
 
 
-ERROR: queue overflow. Element 236 was not added to queue.
+WARNING: queue overflow. Element 236 was not added to queue.
 
 
-ERROR: queue overflow. Element 237 was not added to queue.
+WARNING: queue overflow. Element 237 was not added to queue.
 
 
-ERROR: queue overflow. Element 238 was not added to queue.
+WARNING: queue overflow. Element 238 was not added to queue.
 
 
-ERROR: queue overflow. Element 239 was not added to queue.
+WARNING: queue overflow. Element 239 was not added to queue.
 
 
 0 was poped from queue "&queue"
@@ -1128,8 +1128,11 @@ head - 30
     DUMP from:
 file - main.cpp
 func - int main()
-line - 21
+line - 20
 queue - "&queue"
+
+Not free elements:
+[index] - [value]
 [ 30] - [30]
 [ 31] - [31]
 [ 32] - [32]
@@ -1379,64 +1382,64 @@ tail - 29
 head - 30
 
 
-ERROR: queue overflow. Element 30 was not added to queue.
+WARNING: queue overflow. Element 30 was not added to queue.
 
 
-ERROR: queue overflow. Element 31 was not added to queue.
+WARNING: queue overflow. Element 31 was not added to queue.
 
 
-ERROR: queue overflow. Element 32 was not added to queue.
+WARNING: queue overflow. Element 32 was not added to queue.
 
 
-ERROR: queue overflow. Element 33 was not added to queue.
+WARNING: queue overflow. Element 33 was not added to queue.
 
 
-ERROR: queue overflow. Element 34 was not added to queue.
+WARNING: queue overflow. Element 34 was not added to queue.
 
 
-ERROR: queue overflow. Element 35 was not added to queue.
+WARNING: queue overflow. Element 35 was not added to queue.
 
 
-ERROR: queue overflow. Element 36 was not added to queue.
+WARNING: queue overflow. Element 36 was not added to queue.
 
 
-ERROR: queue overflow. Element 37 was not added to queue.
+WARNING: queue overflow. Element 37 was not added to queue.
 
 
-ERROR: queue overflow. Element 38 was not added to queue.
+WARNING: queue overflow. Element 38 was not added to queue.
 
 
-ERROR: queue overflow. Element 39 was not added to queue.
+WARNING: queue overflow. Element 39 was not added to queue.
 
 
-ERROR: queue overflow. Element 40 was not added to queue.
+WARNING: queue overflow. Element 40 was not added to queue.
 
 
-ERROR: queue overflow. Element 41 was not added to queue.
+WARNING: queue overflow. Element 41 was not added to queue.
 
 
-ERROR: queue overflow. Element 42 was not added to queue.
+WARNING: queue overflow. Element 42 was not added to queue.
 
 
-ERROR: queue overflow. Element 43 was not added to queue.
+WARNING: queue overflow. Element 43 was not added to queue.
 
 
-ERROR: queue overflow. Element 44 was not added to queue.
+WARNING: queue overflow. Element 44 was not added to queue.
 
 
-ERROR: queue overflow. Element 45 was not added to queue.
+WARNING: queue overflow. Element 45 was not added to queue.
 
 
-ERROR: queue overflow. Element 46 was not added to queue.
+WARNING: queue overflow. Element 46 was not added to queue.
 
 
-ERROR: queue overflow. Element 47 was not added to queue.
+WARNING: queue overflow. Element 47 was not added to queue.
 
 
-ERROR: queue overflow. Element 48 was not added to queue.
+WARNING: queue overflow. Element 48 was not added to queue.
 
 
-ERROR: queue overflow. Element 49 was not added to queue.
+WARNING: queue overflow. Element 49 was not added to queue.
 
 
 30 was poped from queue "&queue"
@@ -2074,403 +2077,403 @@ tail - 29
 head - 29
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
-ERROR: queue is empty. Cannot pop element.
+WARNING: queue is empty. Cannot pop element.
 
 
 Queue "&queue" was destructed

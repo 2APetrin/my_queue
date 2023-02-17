@@ -10,13 +10,24 @@
 #define queue_ctor(queue) _queue_ctor((queue), var_info {#queue, LOCATION})
 
 
-const int BUFF_SIZE = 128; //size of cyclic buffer
+//! @brief size of cyclic buffer. Only powers of 2
 
-typedef double elem;       // type of elements inside queue
+const int BUFF_SIZE = 128; 
 
-const elem POISON = NAN;   // value on place of deleted/free elements
 
-extern FILE * logfile;     // extern logfile variable
+//! @brief type of elements inside queue
+
+typedef double elem;       
+
+
+//! @brief value on place of deleted/free elements
+
+const elem POISON = NAN;
+
+
+//! @brief extern logfile variable
+
+extern FILE * logfile;     
 
 
 //! @struct variable information
@@ -32,7 +43,36 @@ struct var_info
     const char * name;
     const char * func;
     const char * file;
-    int          line;
+    size_t       line;
+};
+
+
+//! @struct location
+//! @brief locaion of call
+//!
+//! @var func - function, where calling function is
+//! @var file - file, where calling function is
+//! @var line - line, where calling function is
+
+struct location_info
+{
+    const char * func;
+    const char * file;
+    size_t       line;
+};
+
+
+//! @brief codes of errors for queue
+
+enum queue_err_codes
+{
+    BAD_TAIL_VAL = 1,
+    BAD_DATA_PTR = 2,
+    BAD_VAR_NAME = 4,
+    BAD_VAR_FUNC = 8,
+    BAD_VAR_FILE = 16,
+    BAD_LINE_VAL = 32,
+    BAD_HEAD_VAL = 64
 };
 
 
@@ -46,9 +86,9 @@ struct var_info
 
 struct my_queue
 {
-    unsigned char head;
-    unsigned char tail;
-    double      * data;
+    unsigned int head;
+    unsigned int tail;
+    double     * data;
 
     struct var_info queue_info;
 };
@@ -57,7 +97,7 @@ struct my_queue
 //! @brief creates data arrange and initializes head and tail
 //!
 //! @param [out] queue ptr to our queue object
-//! @param [in] info  information about our queue object creation
+//! @param [in]  info  information about our queue object creation
 //!
 //! @return 1 if error, 0 if ok
 
@@ -67,7 +107,7 @@ int _queue_ctor(struct my_queue * queue, struct var_info info);
 //! @brief adds number to our queue
 //!
 //! @param [out] queue ptr to our queue object
-//! @param [in] push_value push value
+//! @param [in]  push_value push value
 //!
 //! @return 1 if error, 0 if ok
 
@@ -104,11 +144,29 @@ int queue_dtor(struct my_queue * queue);
 
 //! @brief prints all non POISON elements in queue
 //!
-//! @param [in] queue ptr to our queue object
-//! @param [in] func name of funtion, where function was called
-//! @param [in] file name of file, where function was called
-//! @param [in] line index of line, where dump was called
+//! @param [in] queue   ptr to our queue object
+//! @param [in] loc_inf struct with calling function location
 //!
 //! @return 1 if error, 0 if ok
 
-int queue_dump(struct my_queue * queue, const char * func, const char * file, size_t line);
+int queue_dump(struct my_queue * queue, struct location_info loc_inf);
+
+
+//! @brief verifys our queue 
+//! 
+//! @param [in] queue ptr to our queue object
+//! @param [in] loc_inf struct with calling function location
+//!
+//! @return if error is catched, prints in logfile diagnostics and turns off our queue by abort()
+
+int queue_verify(struct my_queue * queue, struct location_info loc_inf);
+
+
+//! @brief checks for errors
+//! 
+//! @param [in]  queue ptr to our queue object
+//! @param [out] err_number error code. 0 if all is ok
+//!
+//! @return error code
+
+int queue_err_check(struct my_queue * queue, unsigned char * err_count);

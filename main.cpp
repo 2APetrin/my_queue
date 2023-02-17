@@ -10,7 +10,6 @@ int main(void)
     if (queue_ctor(&queue)) return 1;
 
     double coc = 0;
-    //scanf("%lg", &cock);
 
     for (int i = 0; i < 240; i++)
         queue_push(&queue, i);
@@ -18,7 +17,7 @@ int main(void)
     for (int x = 0; x < 30; x++)
         queue_pop(&queue, &coc);
 
-    queue_dump(&queue, LOCATION); 
+    queue_dump(&queue, {LOCATION}); 
     
     for (int i = 0; i < 50; i++)
         queue_push(&queue, i);
